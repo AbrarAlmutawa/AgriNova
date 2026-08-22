@@ -1,22 +1,40 @@
 {
-    "timestamp": "2026-08-19T21:27:24.870649",
+    "timestamp": "2026-08-22T15:14:16.244830",
     "pdf_files": [
-        "‎الاستراتيجية الوطنية للمياه ٢٠٣٠.pdf",
-        "‎المعايير النباتية للممارسات الزراعية الجيدة بالمملكة العربية السعودية (سعودي قاب).pdf",
-        "ai-principles.pdf",
         "AIAdoptionFramework.pdf",
         "FAO_Crop_Water_Response_66.pdf",
         "FAO_Irrigation_Manual.pdf",
         "Khait_Plant_Sounds_2023.pdf",
         "MEWA_Tomato_Irrigation_Guide.pdf",
         "Personal Data English V2-23April2023- Reviewed-.pdf",
-        "SaudiWaterResourcesCode.pdf"
+        "SaudiWaterResourcesCode.pdf",
+        "ai-principles.pdf",
+        "‎الاستراتيجية الوطنية للمياه ٢٠٣٠.pdf",
+        "‎المعايير النباتية للممارسات الزراعية الجيدة بالمملكة العربية السعودية (سعودي قاب).pdf"
     ],
     "total_pdfs": 10,
-    "total_pages": 973,
-    "total_chunks": 3702,
+    "total_pages": 975,
+    "total_chunks": 3794,
     "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
     "vector_db": "ChromaDB",
     "keyword_search": "BM25",
-    "hybrid_method": "RRF"
+    "hybrid_method": "RRF",
+    "extraction_method": "PyMuPDF (fitz)",
+    "policy_sources": [
+        "SaudiWaterResourcesCode.pdf",
+        "‎الاستراتيجية الوطنية للمياه ٢٠٣٠.pdf",
+        "‎المعايير النباتية للممارسات الزراعية الجيدة بالمملكة العربية السعودية (سعودي قاب).pdf"
+    ],
+    "technical_sources": [
+        "FAO_Crop_Water_Response_66.pdf",
+        "FAO_Irrigation_Manual.pdf",
+        "Khait_Plant_Sounds_2023.pdf",
+        "MEWA_Tomato_Irrigation_Guide.pdf"
+    ],
+    "governance_sources": [
+        "AIAdoptionFramework.pdf",
+        "Personal Data English V2-23April2023- Reviewed-.pdf",
+        "ai-principles.pdf"
+    ],
+    "suspicious_pages_flagged": 7
 }

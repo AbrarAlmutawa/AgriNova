@@ -1,0 +1,6 @@
+.DS_Store
+chroma_knowledge_base/
+chroma_knowledge_base.zip
+pdfs/
+__pycache__/
+*.pyc

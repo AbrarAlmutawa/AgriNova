@@ -1,0 +1,397 @@
+[
+  {
+    "query": "What irrigation practices are recommended for tomato plants?",
+    "answer": "Evidence:\n- Common irrigation methods used in tomato production include drip irrigation, sprinkler, and mini-sprinkler systems.\n- Irrigation management aims to save water while preserving yield and improving fruit quality, with deficit irrigation being studied for these goals.\n- Growers typically reduce or limit irrigation as tomato crops get closer to maturity.\n- Maintaining balanced soil moisture is recommended as a preventive measure against certain diseases.\n\nReasoning:\nThe retrieved texts address the farmer's question by outlining modern application methods (drip, sprinkler, mini-sprinkler), optimal timing strategies (limiting water near maturity, using deficit irrigation to balance yield, quality, and water savings), and soil moisture requirements (keeping balanced moisture to prevent disease).\n\nRecommendation:\n- **Irrigation Methods:** Utilize drip irrigation, mini-sprinkler, or sprinkler systems.\n- **Moisture Management:** Maintain balanced soil moisture to help prevent plant disease.\n- **Timing and Conservation:** Practice water-saving irrigation strategies such as deficit irrigation to maintain yields and fruit quality, and limit irrigation as the crop approaches maturity.\n\nSources:\n- FAO_Crop_Water_Response_66.pdf, p.212: \"(sprinkler, mini-sprinkler and drip irrigation) are now common in many main cropping countries.\"\n- FAO_Crop_Water_Response_66.pdf, p.212: \"Large-scale tomato growers have long learned to limit irrigation as the crop approaches maturity.\"\n- FAO_Crop_Water_Response_66.pdf, p.212: \"irrigation management should focus on water saving while maintaining yield and enhancing fruit quality.\"\n- MEWA_Tomato_Irrigation_Guide.pdf, p.28: \"تأمين رطوبة تربة متوازنة\"",
+    "technical_evidence": [
+      {
+        "rank": 1,
+        "text": "٥١. اﻹﺧﺼﺎب\n ﻳﻌﺘﺒﺮ ﻧﺒﺎت اﻟﻄﻤﺎﻃﻢ ﻣﻦ اﻟﻨﺒﺎﺗﺎت ذاﺗﻴﺔ اﻟﺘﻠﻘﻴﺢ ﺣﻴﺚ ﻳﺘﻢ اﻹﺧﺼﺎب ﺑﺸﻜﻞ ﻃﺒﻴﻌﻲ ﻋﻨﺪﻣﺎ ﺗﻜﻮن اﻟﻈﺮوف ﻋﺎدﻳﺔ\n وﻳﺴﺎﻋﺪ ﺗﺤﺮﻳﻚ اﻟﻨﺒﺎت ﺑﻮاﺳﻄﺔ اﻟﺘﻴﺎرات اﻟﻬﻮاﺋﻴﺔ ووﺟﻮد اﻟﺤﺸﺮات ﻓﻲ ﺗﺤﺴﻴﻦ اﻹﻟﻘﺎح وﺑﺎﻟﺘﺎﻟﻲ ﻣﻦ ﻋﻘﺪ اﻟﺜﻤﺎر،  إن\n .اﻟﺮﻃﻮﺑﺔ اﻟﺠﻮﻳﺔ وﺣﺮارة اﻟﺠﻮ اﻟﻐﻴﺮ ﻣﻨﺎﺳﺒﺘﻴﻦ وﻏﻴﺎب اﻟﺤﺸﺮات ﻳﻤﻜﻦ أن ﻳﺆﺛﺮ ﺑﺸﻜﻞ ﺳﻠﺒﻲ ﻋﻠﻰ إﺧﺼﺎب اﻷزﻫﺎر\n وﻋﻨﺪﻣﺎ ﻻ ﺗﺨﺼﺐ اﻷزﻫﺎر ﺑﺸﻜﻞ ﻛﺎف ﺗﺘﺸﻜﻞ ﺛﻤﺎر ﺻﻐﻴﺮة )ﻃﻤﺎﻃﻢ ﻛﺮزﻳﺔ( ﻻ ﺗﺤﻮي ﻋﻠﻰ ﺑﺬور أو ﻋﻠﻰ ﻛﻤﻴﺔ ﻗﻠﻴﻠﺔ ﺟﺪا\n ﻣﻦ اﻟﺒﺬور وﻫﻲ ذات ﻧﻮﻋﻴﺔ ﻏﻴﺮ ﺟﻴﺪة.وﻳﻨﺘﺞ ﻋﻦ ذﻟﻚ ﺿﻌﻒ ﺑﺎﻹﻧﺘﺎﺟﻴﺔ وﻧﻤﻮ ﺧﻀﺮي ﻛﺒﻴﺮ إﺿﺎﻓﺔ اﻟﻰ ﻧﻤﻮ ﺣﻮاﻣﻞ\n.اﻟﺜﻤﺎر ﺑﺸﻜﻞ ﻛﺒﻴﺮ\n ﻟﺘﻨﻤﻮ اﻟﺜﻤﺎر ﺑﺸﻜﻞ ﺟﻴﺪ ﻋﻠﻰ اﻟﻌﻨﻘﻮد ﻳﺘﻮﺟﺐ أن  ﺗﻜﻮن ﺷﺮوط اﻟﻨﻤﻮ ﻣﻨﺎﺳﺒﺔ وأن ﺗﺘﻮاﺟﺪ اﻟﺤﺸﺮات ﻣﺜﻞ اﻟﺪﺑﺎﺑﻴﺮ\n اﻟﻄﻨﺎﻧﺔ اﻟﺘﻲ ﺗﺤﺴﻦ ﻣﻦ ﻋﻤﻠﻴﺔ اﻹﺧﺼﺎب اﻟﺘﻲ ﺗﺘﺮاﻓﻖ ﻣﻊ ﻧﻤﻮ ﻛﻤﻴﺔ ﻛﺒﻴﺮة ﻣﻦ اﻟﺒﺬور  ﺑ",
+        "source": "MEWA_Tomato_Irrigation_Guide.pdf",
+        "page": "22",
+        "rerank_score": 2.1689870357513428
+      },
+      {
+        "rank": 2,
+        "text": "ethods \n(sprinkler, mini-sprinkler and drip irrigation) are now common in many main cropping \ncountries. Large-scale tomato growers have long learned to limit irrigation as the crop \napproaches maturity. Because of its vegetative vs. reproductive changes in response to water \nstatus, irrigation management should focus on water saving while maintaining yield and \nenhancing fruit quality. In recent years, experiments with deﬁcit irrigation have been directed \nat these objectives, with either the deﬁcit maintained at a selected level over a long time \n(often referred to as DI), or with the irrigation being deﬁcit only at selected stages of the \ncrop’s life cycle, referred to as regulated deﬁcit",
+        "source": "FAO_Crop_Water_Response_66.pdf",
+        "page": "212",
+        "rerank_score": 2.1239259243011475
+      },
+      {
+        "rank": 3,
+        "text": "ﺒﺐ\n  زراﻋﺔ ﻃﻤﺎﻃﻢ ﺑﺸﻜﻞ ﻣﺴﺘﻤﺮ ﺑﻨﻔﺲ-\n.اﻷرض ﺑﺎﻟﺤﺮارة اﻟﻌﺎﻟﻴﺔ\n. اﻟﻤﺴﺒﺐ ﻳﺒﻘﻰ ﺑﺎﻟﺘﺮﺑﺔ ﻃﻮﻳﻼ-\n  ﻳﺼﻴﺐ اﻟﻄﻤﺎﻃﻢ ﻓﻘﻂ  اﻹﺟﺮاءات-\n:اﻟﻮﻗﺎﺋﻴﺔ\n  زراﻋﺔ أﺻﻨﺎف ﻣﻘﺎوﻣﺔ أو اﻟﺘﻄﻌﻴﻢ-\n.  ﻋﻠﻰ أﺻﻮل ﻣﻘﺎوﻣﺔ\n .  ﺗﺄﻣﻴﻦ رﻃﻮﺑﺔ ﺗﺮﺑﺔ ﻣﺘﻮازﻧﺔ-\n. ﺗﺒﻮﻳﺮ اﻟﺘﺮﺑﺔ-\n :اﻹﺟﺮاءات اﻟﻌﻼﺟﻴﺔ\n    ازاﻟﺔ اﻟﻨﺒﺎﺗﺎت اﻟﻤﺼﺎﺑﺔ ﺑﺸﻜﻞ-\n  .  إﻓﺮادي\n.إن ﻋﻤﻠﻴﺎت اﺧﺘﻴﺎر اﻷﺻﻨﺎف واﻟﺘﻄﻌﻴﻢ ﻋﻠﻰ اﺻﻮل ﻣﻘﺎوﻣﺔ وﺗﺒﺨﻴﺮ اﻟﺘﺮﺑﺔ ﺑﺎﻟﺒﺨﺎر ﻫﺎﻣﺔ وﺿﺮورﻳﺔ ﻟﺘﻘﻠﻴﻞ اﻻﻣﺮاض اﻟﺜﻼﺛﺔ",
+        "source": "MEWA_Tomato_Irrigation_Guide.pdf",
+        "page": "28",
+        "rerank_score": 2.0826528072357178
+      }
+    ],
+    "policy_evidence": [],
+    "llm_called": true
+  },
+  {
+    "query": "How much water do tomato crops need during flowering?",
+    "answer": "Evidence:\nThe retrieved source explains that water requirements for tomato plants depend on age, temperature, and solar radiation using drip irrigation. Small plants require 200–300 ml of water per day (increasing up to 600–700 ml in high heat). Following the young plant stage and up to the flowering stage, water requirements increase to 2–3 liters per plant per day, applied in batches. During the production stage, plants require 3–4 liters per day.\n\nReasoning:\nThe farmer asks about water requirements during/up to the flowering stage. The document explicitly outlines that during the stage leading up to flowering, each plant requires 2 to 3 liters of water per day administered in batches via drip irrigation.\n\nRecommendation:\nApply 2 to 3 liters of water per plant per day, divided into multiple batches using drip irrigation, for tomato crops up to the flowering stage.\n\nSources:\n- MEWA_Tomato_Irrigation_Guide.pdf, p.21: \"وﺑﻌﺪ ذﻟﻚ )ﺣﺘﻰ ﻣﺮﺣﻠﺔ اﻹزﻫﺎر( ﻳﺤﺘﺎج ﻟﻜﻤﻴﺔ-٢ ٣ ﻟﻴﺘﺮ ﻳﻮﻣﻴﺎ ﻋﻠﻰ دﻓﻌﺎت\"",
+    "technical_evidence": [
+      {
+        "rank": 1,
+        "text": "ﻤﺎﻃﻢ  ﻫﻲ ﻃﺮﻳﻘﺔ  اﻟﺮي ﺑﺎﻟﺘﻨﻘﻴﻂ\nوﺗﺘﻌﻠﻖ ﻛﻤﻴﺔ ﻣﻴﺎه اﻟﺮي ﻟﻠﻨﺒﺘﺔ اﻟﻮاﺣﺪ ﺑﺎﻟﻌﻤﺮ وﺑﺪرﺟﺔ اﻟﺤﺮارة وﺑﺎﻹﺷﻌﺎع\n ٠٠٣ ﻣﻞ ﻓﻲ اﻟﻴﻮم وﻋﻨﺪﻣﺎ ﺗﻜﻮن اﻟﺤﺮارة ﻋﺎﻟﻴﺔ ﻳﻤﻜﻦ أن ﺗﺼﻞ ﻛﻤﻴﺔ اﻟﻤﺎء ﻟﻠﻨﺒﺎت-٠٠٢ ﻳﺤﺘﺎج اﻟﻨﺒﺎت اﻟﺼﻐﻴﺮ ﻟﻜﻤﻴﺔ\n (٠٠٧ ﻣﻞ وﻓﻲ اﻟﺠﻮ اﻟﻤﺘﻘﻠﺐ ﻳﻤﻜﻦ ﺗﺨﻔﻴﺾ ﻛﻤﻴﺔ ﻣﻴﺎه اﻟﺮي ﻗﻠﻴﻼ. وﺑﻌﺪ ذﻟﻚ )ﺣﺘﻰ ﻣﺮﺣﻠﺔ اﻹزﻫﺎر-٠٠٦ اﻟﻮاﺣﺪ ﺣﺘﻰ\n ٤ ﻟﻴﺘﺮ ﻣﻦ اﻟﻤﺎء ﻳﻮﻣﻴﺎ وﻳﻤﻜﻦ أن ﺗﺰﻳﺪ ﻓﻲ-٣ ٣ ﻟﻴﺘﺮ ﻳﻮﻣﻴﺎ ﻋﻠﻰ دﻓﻌﺎت، أﻣﺎ اﻟﻨﺒﺎت ﺑﻤﺮﺣﻠﺔ اﻹﻧﺘﺎج  ﻓﻴﺤﺘﺎج  ﻟﻜﻤﻴﺔ-٢\n ٤٢ ﺳﺎﻋﺔ وذﺑﻮل اﻟﻨﺒﺎت دﻟﻴﻞ ﻋﻠﻰ ﻋﺪم اﻟﺠﻮ اﻟﺤﺎر وﻳﻔﻀﻞ أن ﺗﻮزع ﺑﺎﻟﺘﻨﻘﻴﻂ ﻋﻠﻰ اﻟﻨﺒﺎت اﻟﻮاﺣﺪ ﻋﻠﻰ دﻓﻌﺎت ﺧﻼل ال\n ﻛﻔﺎﻳﺔ ﻣﺎء اﻟﺴﻘﺎﻳﺔ، وﻟﺘﻮرﻳﺪ اﻟﻐﺬاء واﻟﻤﺎء ﻟﻠﻨﺒﺎت ﻳﻔﻀﻞ أن ﺗﺤﻔﻆ اﻟﺘﺮﺑﺔ ﻛﺎﻣﻠﺔ ﺣﻮل اﻟﻤﺠﻤﻮع اﻟﺠﺬري ﻟﻠﻨﺒﺎت رﻃﺒﺔ\n.وﻫﺬا ﻳﻤﻜﻦ ﺗﺤﻘﻴﻘﻪ ﻣﻦ ﺧﻼل وﺿﻊ ﺧﺮﻃﻮﻣﻲ ري ﻋﻠﻰ ﺟﺎﻧﺒﻲ ﺻﻒ اﻟﻨﺒﺎﺗﺎت",
+        "source": "MEWA_Tomato_Irrigation_Guide.pdf",
+        "page": "21",
+        "rerank_score": 2.96028208732605
+      }
+    ],
+    "policy_evidence": [],
+    "llm_called": true
+  },
+  {
+    "query": "What is deficit irrigation and when should it be used?",
+    "answer": "Evidence:\nDeficit irrigation (DI) is an irrigation regime where the water applied is less than the evapotranspiration (ET) requirements of the crop or orchard, resulting in a net extraction of water from the soil reservoir. Regulated deficit irrigation (RDI) refers to applying deficits only at selected stages of a crop's life cycle. Deficit irrigation can be used during drought years when available irrigation supplies are limited. When implementing this, managers adjust the timing, magnitude, and duration of water deficits—often imposing stress during stress-tolerant growth stages—with the goal of maximizing grower profit across current and subsequent seasons.\n\nReasoning:\nThis evidence directly defines deficit irrigation and regulated deficit irrigation, explaining how soil water is affected. It explicitly outlines when and how the practice should be used (i.e., during drought conditions with limited water, specifically during stress-tolerant growth stages to maintain profitability).\n\nRecommendation:\nUse deficit irrigation by applying less water than full crop evapotranspiration requirements when available irrigation supplies are limited, such as during drought years. When implementing this practice, plan timing and water restrictions around the crop's life cycle—such as using regulated deficit irrigation during stress-tolerant periods—to optimize water use and maximize overall grower profit.\n\nSources:\n- FAO_Crop_Water_Response_66.pdf, page 304: \"Deﬁcit irrigation (DI) is deﬁned as a regime where the irrigation water applied is less than the orchard ET requirements.\"\n- FAO_Crop_Water_Response_66.pdf, page 212: \"tion being deﬁcit only at selected stages of the crop’s life cycle, referred to as regulated deﬁcit irrigation (RDI)\"\n- FAO_Crop_Water_Response_66.pdf, page 305: \"I concept can also be used in drought years, where available irrigation supplies are limited.\"",
+    "technical_evidence": [
+      {
+        "rank": 1,
+        "text": "water. Deﬁcit \nirrigation (DI) is deﬁned as a regime where the irrigation water applied is less than the orchard \nET requirements. When the irrigation rate is below the ET rate, there will be a net extraction of \nwater from the soil reservoir. Two situations may then develop. In one case, if sufﬁcient water \nis stored in the soil and transpiration is not limited by soil water, the consumptive use (ET)",
+        "source": "FAO_Crop_Water_Response_66.pdf",
+        "page": "304",
+        "rerank_score": 4.289036273956299
+      },
+      {
+        "rank": 2,
+        "text": "tion being deﬁcit only at selected stages of the \ncrop’s life cycle, referred to as regulated deﬁcit irrigation (RDI) (Battilani et al., 2008). In more \narid areas preplant irrigation is practised when past rainfall is insufﬁcient to replenish the soil \nproﬁle. Preplant irrigations are also used to leach more saline soils. Frequently, if soil is well \ncharged initially, one to two irrigations over a 2-4 week period are used for stand establishment \nafter transplant or seeding. During canopy development and much of the ﬂowering period, \nirrigation needs to be sufﬁcient to ensure fast canopy growth and yet not so much as to cause \nexcessive leaf growth and the associated dropping of ﬂowers and",
+        "source": "FAO_Crop_Water_Response_66.pdf",
+        "page": "212",
+        "rerank_score": 2.213324785232544
+      },
+      {
+        "rank": 3,
+        "text": "I concept can also be used in drought years, \nwhere available irrigation supplies are limited. In practice, the manager must decide whether \nto impose more severe water deﬁcits during the stress-tolerant periods or begin to expand \nthe stress into the less stress-tolerant stages of the season or a combination of both. Thus, the \ntiming, magnitude, and duration of the stress periods will depend on the water supply with \nthe goal being maximum grower proﬁt; both in the current and subsequent season(s). \nOne form of deﬁcit irrigation is to irrigate alternatively either side of the tree or vine, to \ngenerate wet-dry cycles on both sides of the root system. Thus, only half the root system is \nirr",
+        "source": "FAO_Crop_Water_Response_66.pdf",
+        "page": "305",
+        "rerank_score": 1.2324023246765137
+      }
+    ],
+    "policy_evidence": [],
+    "llm_called": true
+  },
+  {
+    "query": "What are the early signs of drought stress in plants?",
+    "answer": "Evidence: No sources in the knowledge base cleared the relevance threshold for this question.\nReasoning: Answering without adequate supporting evidence risks giving incorrect agricultural or regulatory advice.\nRecommendation: The available sources are insufficient to answer this question confidently. Please consult a local agricultural extension office or the relevant Saudi authority directly.\nSources: None met the relevance threshold.",
+    "technical_evidence": [],
+    "policy_evidence": [],
+    "llm_called": false
+  },
+  {
+    "query": "How does water stress affect crop yield?",
+    "answer": "Evidence:\nThe impact of water stress on crop yield varies depending on the timing, duration, and severity of the stress. Effects can range from slight yield enhancement or no effect, to varying degrees of yield reduction and crop failure. Physiologically, water stress reduces photosynthesis and limits cell and fruit expansion. Additionally, plant water stress can affect flower bud development and postharvest yield correlations for subsequent seasons.\n\nReasoning:\nThis evidence addresses the farmer's question by showing that water stress directly influences crop yield through physiological mechanisms (inhibiting photosynthesis and cell/fruit growth) and that its final effect on yield ranges from minimal impact to severe crop failure based on stress duration, timing, and severity.\n\nRecommendation:\nCarefully manage irrigation to prevent severe water stress during critical growth periods, as water stress reduces photosynthesis and fruit expansion, which can lead to reduced yields or crop failure, and manage postharvest water stress due to its effect on the following season's yield.\n\nSources:\n  - FAO_Crop_Water_Response_66.pdf, page 153: \"stress effects on yield may range from slight enhancement, to virtually no effect, to different ranges of yield reduction, and even to crop failure.\"\n  - FAO_Crop_Water_Response_66.pdf, page 348: \"Water stress not only limits cell and fruit expansion but also reduces photosynthesis\"\n  - FAO_Crop_Water_Response_66.pdf, page 362: \"Water stress during postharvest, as measured by the SWP, was also correlated with the following season’s crop yields.\"",
+    "technical_evidence": [
+      {
+        "rank": 1,
+        "text": "so as a tool for controlling vegetative growth in areas where vigorous \ngrowth may be a problem.\nPlant water stress is known to potentially affect ﬂower bud development for the next season, \nbut there are only a few reports on a decrease in next season crop level because of bud \ndamage (Johnson et al., 1994). Water stress during postharvest, as measured by the SWP, was \nalso correlated with the following season’s crop yields. \nIn some cases, there was even an increase in return bloom leading to larger yield in prune trees \nwhere a high crop level was the target (Lampinen et al., 1995). In plum trees, water stress did not \nappear to be associated with the appearance of fruit disorders such as",
+        "source": "FAO_Crop_Water_Response_66.pdf",
+        "page": "362",
+        "rerank_score": 7.5507378578186035
+      },
+      {
+        "rank": 2,
+        "text": "barley to water stress depends on timing, duration, \nand severity of the stress. Therefore, stress effects on yield may range from slight enhancement, \nto virtually no effect, to different ranges of yield reduction, and even to crop failure. In terms \nof yield components, it has been well established for both wheat and barley that yield is \ndetermined largely by the number of grains per unit land area, and, to a substantially lesser \ndegree, by the weight per grain. Of course, the number of grains per unit land area is the \nproduct of plant density, fruitful shoots per plant, and grains per fruitful shoot (head). The \nnumber of grains per head is particularly sensitive to stress occurring du",
+        "source": "FAO_Crop_Water_Response_66.pdf",
+        "page": "153",
+        "rerank_score": 6.64586877822876
+      },
+      {
+        "rank": 3,
+        "text": "CROP YIELD RESPONSE TO WATER\n336\nwater stress and thus highly responsive to irrigation (Naor, 2006; Naor et al., 1995 and Girona \net al., 2010). It is also highly responsive to crop load (Naor et al., 2008). Assimilate availability is \nthus the limiting factor for fulﬁlling potential fruit size (Naschitz et al., 2010). Water stress not \nonly limits cell and fruit expansion but also reduces photosynthesis (the source for assimilates), \nwhile primarily crop load determines the demand for assimilates and to a certain extent the \nphotosynthetic rate. \nUnlike peach, apple does not have distinct stages of fruit growth and a large part of vegetative \nand reproductive growth overlap during the growi",
+        "source": "FAO_Crop_Water_Response_66.pdf",
+        "page": "348",
+        "rerank_score": 5.099478244781494
+      }
+    ],
+    "policy_evidence": [],
+    "llm_called": true
+  },
+  {
+    "query": "Can plant sounds indicate drought stress?",
+    "answer": "Evidence:\nStudies show that plants, such as tomato and tobacco, emit airborne ultrasonic sounds (specifically in the 20–150 kHz range) that reflect their condition. Stressed plants emit these sounds, allowing researchers to differentiate between dry and cut plants with 70% accuracy, and between drought-stressed and control plants in a greenhouse with 84% accuracy based solely on emitted sounds. Furthermore, evidence suggests plants may react to sounds to increase their drought tolerance, though more research in plant bioacoustics is suggested.\n\nReasoning:\nThe evidence directly addresses the farmer's question by showing that drought stress causes plants to emit distinct airborne sounds. These acoustic emissions can be monitored and used to identify drought-stressed plants and distinguish them from healthy control plants or plants suffering from other types of stress (such as mechanical cutting).\n\nRecommendation:\nYes, plant sounds can indicate drought stress. You can rely on monitoring airborne ultrasonic sound emissions (in the 20–150 kHz range) to identify when plants are experiencing drought stress and to differentiate drought stress from other conditions or control plants.\n\nSources:\n- Khait_Plant_Sounds_2023.pdf, p.4: \"Stressed plants emit airborne sounds that reveal their condition:\"\n- Khait_Plant_Sounds_2023.pdf, p.7: \"distinguishing between drought-stressed and control plants in a greenhouse, based only on the sounds they emit\"",
+    "technical_evidence": [
+      {
+        "rank": 1,
+        "text": "react to sounds13,28–31,46 and speciﬁcally to increase their\ndrought tolerance in response to sounds.47,48 Could plants\npotentially respond adaptively to the sounds of their drought-\nstressed or injured neighbors? We suggest that more investiga-\ntion in the plant bioacoustics ﬁeld, and particularly in the ability of\nplants to emit and react to sounds under different conditions and\nenvironments, may reveal a pathway of signaling between plants\nand their environment.\nLimitations of the study\nAlthough our study demonstrates that plant emit informative\nairborne sounds under stress, there are a few open issues:\nFirst, our results were obtained on a limited number of plant\nspecies, and should be t",
+        "source": "Khait_Plant_Sounds_2023.pdf",
+        "page": "8",
+        "rerank_score": 7.811457633972168
+      },
+      {
+        "rank": 2,
+        "text": "se, while monitoring physiological parameters of the\nrecorded plants.\nStressed plants emit airborne sounds that reveal their\ncondition: Acoustic box setup\nWe recorded tomato (Solanum lycopersicum) and tobacco\n(Nicotiana tabacum) plants under different treatments—drought\nstress, cutting (of the stem, before recording), and controls,\nwithin an acoustically isolated box. We focused on the ultrasonic\nsound range (20–150 kHz).\nWe found that plants emit sounds, and that stressed plants—\nboth drought-stressed (Dry) and cut plants (Cut; see STAR\nMethods)—emit signiﬁcantly more sounds than plants of any of\nthe control groups (p < e!6, Wilcoxon test for each of the 12\ncomparisons with Holm-Bonferroni",
+        "source": "Khait_Plant_Sounds_2023.pdf",
+        "page": "4",
+        "rerank_score": 7.704471111297607
+      },
+      {
+        "rank": 3,
+        "text": "ceeded in differenti-\nating between sounds emitted under two different stress condi-\ntions—dry and cut plants—with an accuracy of 70% using\nsupervised machine learning methods (Figure 1), and distin-\nguishing between drought-stressed and control plants in a\ngreenhouse, based only on the sounds they emit (accuracy of\n84%, Figures 2B and 2D). We monitored the distribution of plant\nsounds with respect to days of dehydration, time of day,\nsoil moisture (Figure 3), and transpiration rate (Figure 4). Our re-\ncordings revealed that the hourly pattern of sound emission\ncorrelates with the plant’s transpiration rate, while the daily num-\nber of sounds is a hump-shaped function of plant dehydration,\ni",
+        "source": "Khait_Plant_Sounds_2023.pdf",
+        "page": "7",
+        "rerank_score": 6.436100006103516
+      }
+    ],
+    "policy_evidence": [],
+    "llm_called": true
+  },
+  {
+    "query": "How can water resources be managed efficiently in agriculture?",
+    "answer": "Evidence:\nThe provided sources state that both irrigated and rainfed agriculture must adopt knowledge-intensive management solutions to increase efficiency and productivity. Under conditions of water scarcity, water should be managed as an economic factor to achieve efficient and equitable use, utilizing information on how water supply affects crop productivity. Additionally, water management plans include achieving optimal use of available water sources and expanding the reuse of treated water for agricultural purposes.\n\nReasoning:\nThe farmer asks how water resources can be managed efficiently in agricultural practices. The evidence addresses this by highlighting specific strategies: adopting knowledge-intensive solutions, making management decisions based on crop-water productivity information, managing water economically, and incorporating treated water for agricultural use.\n\nRecommendation:\nTo manage agricultural water resources efficiently, you should:\n1. Adopt knowledge-intensive management solutions for both rainfed and irrigated farming.\n2. Use crop productivity data relative to water supply to inform irrigation and water distribution decisions.\n3. Manage water use as an economic factor to promote equitable and efficient allocation.\n4. Utilize treated water for agricultural irrigation where feasible.\n\nSources:\n- FAO_Crop_Water_Response_66.pdf, page 6: \"irrigated and rainfed agriculture must adopt more knowledge-intensive management solutions.\"\n- FAO_Crop_Water_Response_66.pdf, page 66: \"managing water more as an economic factor.\"\n- SaudiWaterResourcesCode.pdf, page 31: \"العمل على إعادة استخدام المياه المعالجة للأغراض الزراعية والصناعية\"",
+    "technical_evidence": [
+      {
+        "rank": 1,
+        "text": "tions of water \nscarcity, economic considerations take a higher priority, and the focus must be placed on \nachieving efﬁcient and equitable use of the limited resources; this is often accomplished by \nmanaging water more as an economic factor.\nThe economics and management of agricultural water demand and use require information \non crop productivity as affected by water supply. This information has been typically obtained \nby engineers, water planners, and economists from empirical crop-water production functions \nthat use a simple equation to relate yield to the amount of water consumed. AquaCrop, \nhowever, by dynamically simulating the yield response to different amounts of applied water",
+        "source": "FAO_Crop_Water_Response_66.pdf",
+        "page": "66",
+        "rerank_score": 5.498270511627197
+      },
+      {
+        "rank": 2,
+        "text": "sponding to the \nincreasing food demand of the growing world population. To this end, irrigated and rainfed \nagriculture must adopt more knowledge-intensive management solutions.\nMoreover, competing demands for water from other economic sectors and for ecosystem \nservices will continue to grow. As agriculture is by far the largest consumer of water, efﬁciency \nand productivity gains in this sector would free signiﬁcant amounts of water for other uses.\nAbstracting from the scientiﬁc understanding and technological advances achieved over \nthe last few decades, and relying on a network of several scientiﬁc institutions, FAO has \npackaged a set of tools in this Irrigation and Drainage Paper to b",
+        "source": "FAO_Crop_Water_Response_66.pdf",
+        "page": "6",
+        "rerank_score": 2.9770705699920654
+      },
+      {
+        "rank": 3,
+        "text": "اﳌﺎﺋﻴﺔ اﳌﻮارد ﻳﻨﻤﻲ ﻣﺴﺘﺪام ﻣﻴﺎه ﻗﻄﺎع \" :ﰲ اﻟﺮؤﻳﺔ ﺑﻴﺎن ﻳﺘﻤﺜﻞ\n :ﻳﻠﻲ ﻛﻤﺎ اﺳﱰاﺗﻴﺠﻴﺔ أﻫﺪاف ﺧﻤﺴﺔ ﰲ اﻟﺮؤﻳﺔ ﺑﻴﺎن ﺗﻔﺼﻴﻞ وﺗﻢ .\"واﻻﺟﺘﻤﺎﻋﻴﺔ اﻻﻗﺘﺼﺎدﻳﺔ\n .اﻟﻄﻮارئ ﺣﺎﻻت وﰲ اﻟﻌﺎدﻳﺔ اﻟﺤﺎﻻت ﰲ اﳌﺆﻣﻨﺔ اﳌﻴﺎه ﻣﻦ ﻛﺎﻓﻴﺔ ﻛﻤﻴﺎت إﱃ ّاﳌﺴﺘﻤﺮ اﻟﻮﺻﻮل ﺿﻤﺎن.1\nاﻟﻮزارة\nاﻟﺨﺪﻣﺎت\nاﻹﻟﻜﱰوﻧﻴﺔ\nاﳌﺮﻛﺰ\nاﻹﻋﻼﻣﻲ\nﺑﻴﺎﻧﺎت\nوإﺣﺼﺎءات\nﻳﻤﻜﻨﻨﺎ ﻛﻴﻒ\nﻣﺴﺎﻋﺪﺗﻚEN",
+        "source": "MEWA_Tomato_Irrigation_Guide.pdf",
+        "page": "1",
+        "rerank_score": 1.1055420637130737
+      }
+    ],
+    "policy_evidence": [
+      {
+        "rank": 1,
+        "text": "يجيات الوطنية. \nب- \n \nإعداد وتنفيذ خطط تنمية لمدة خمس سنوات على الأقل \nلاستدامة مصادر المياه في \nالدولة. \n \nج- \n \nتحقيق الاستخدام الأمثل لمصادر المياه المتاحة من خلال تطوير خدمات مصادر المياه بما يضمن الأمن المائي والغذائي والتنمية الاقتصادية القائمة على العدالة الاجتماعية.  \nد- \n \nتطوير مصادر المياه بهدف توفير احتياجات القطاعات الأكثر احتياج\nا، وتحقيق الإنصاف في \nتوزيع المياه على كافة مناطق الدولة وللقطاعات المختلفة.  \nه- \n \nالعمل على إعادة استخدام المياه المعالجة للأغراض الزراعية والصناعية والتي من شأنها \nتقليل التلوث، وحماية المصادر المائية العذبة من الاستنزاف.  \nو- \n \nترسيخ مفهوم ترشيد المياه لضمان الاستخد\nام العادل للوصول إلى إدارة مصادر المياه \nبكفاءة تقنية ومالية.",
+        "source": "SaudiWaterResourcesCode.pdf",
+        "page": "31",
+        "rerank_score": 1.6209144592285156
+      }
+    ],
+    "llm_called": true
+  },
+  {
+    "query": "What agricultural practices support sustainable water use?",
+    "answer": "[LLM CALL FAILED: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=30)]",
+    "technical_evidence": [
+      {
+        "rank": 1,
+        "text": "اﳌﺎﺋﻴﺔ اﳌﻮارد ﻳﻨﻤﻲ ﻣﺴﺘﺪام ﻣﻴﺎه ﻗﻄﺎع \" :ﰲ اﻟﺮؤﻳﺔ ﺑﻴﺎن ﻳﺘﻤﺜﻞ\n :ﻳﻠﻲ ﻛﻤﺎ اﺳﱰاﺗﻴﺠﻴﺔ أﻫﺪاف ﺧﻤﺴﺔ ﰲ اﻟﺮؤﻳﺔ ﺑﻴﺎن ﺗﻔﺼﻴﻞ وﺗﻢ .\"واﻻﺟﺘﻤﺎﻋﻴﺔ اﻻﻗﺘﺼﺎدﻳﺔ\n .اﻟﻄﻮارئ ﺣﺎﻻت وﰲ اﻟﻌﺎدﻳﺔ اﻟﺤﺎﻻت ﰲ اﳌﺆﻣﻨﺔ اﳌﻴﺎه ﻣﻦ ﻛﺎﻓﻴﺔ ﻛﻤﻴﺎت إﱃ ّاﳌﺴﺘﻤﺮ اﻟﻮﺻﻮل ﺿﻤﺎن.1\nاﻟﻮزارة\nاﻟﺨﺪﻣﺎت\nاﻹﻟﻜﱰوﻧﻴﺔ\nاﳌﺮﻛﺰ\nاﻹﻋﻼﻣﻲ\nﺑﻴﺎﻧﺎت\nوإﺣﺼﺎءات\nﻳﻤﻜﻨﻨﺎ ﻛﻴﻒ\nﻣﺴﺎﻋﺪﺗﻚEN",
+        "source": "MEWA_Tomato_Irrigation_Guide.pdf",
+        "page": "1",
+        "rerank_score": 0.011430223472416401
+      }
+    ],
+    "policy_evidence": [
+      {
+        "rank": 1,
+        "text": "التركيبة المحصولية: \nهي \nإحدى \nالركائز الأ\nساسية لأي \nخطة \nزراعية لترشيد \nاستهلاك \nالمياه، \nويتطلب فيها تحديد المساحة المزروعة التي يمكن \nاستغلالها والنشاطات \nالزراعية واختيار أ\nنواع وأ\nصناف ملائمة لظروف كل منطقة وحسب \nمناخها.\n2.1.94\n \nالخطة \nالزراعية: \nتحدد النسبة المئوية لكل محصول من المساحة الإ\nجمالية \nللأراضي \nالزراعية. \n2.1.95\n \nتحصيص \nالمياه: \nكميات المياه التي يمكن تخصيصها للاستخدامات المختلفة في \nالمنطقة، \nويتم تحديدها استنادًا إ\nلى المياه المتاحة للاستخدام \nوالطلب. \n2.1.96\n \nنطاقات \nإدارة \nالمصادر: \nمساحات ذات حدود جغرافية محددة تُ\nدار بشكل متكامل \nلأسباب فنية أو تنظيمية، \nوعند إصدار الكود تتطابق هذه النطاقات \nمبدئيًّا \nمع حدود \nالمناطق الإدارية للم\nملكة. \n2.1.97\n \nالنطاقات \nالاب",
+        "source": "SaudiWaterResourcesCode.pdf",
+        "page": "15",
+        "rerank_score": 1.9609313011169434
+      },
+      {
+        "rank": 2,
+        "text": "يجيات الوطنية. \nب- \n \nإعداد وتنفيذ خطط تنمية لمدة خمس سنوات على الأقل \nلاستدامة مصادر المياه في \nالدولة. \n \nج- \n \nتحقيق الاستخدام الأمثل لمصادر المياه المتاحة من خلال تطوير خدمات مصادر المياه بما يضمن الأمن المائي والغذائي والتنمية الاقتصادية القائمة على العدالة الاجتماعية.  \nد- \n \nتطوير مصادر المياه بهدف توفير احتياجات القطاعات الأكثر احتياج\nا، وتحقيق الإنصاف في \nتوزيع المياه على كافة مناطق الدولة وللقطاعات المختلفة.  \nه- \n \nالعمل على إعادة استخدام المياه المعالجة للأغراض الزراعية والصناعية والتي من شأنها \nتقليل التلوث، وحماية المصادر المائية العذبة من الاستنزاف.  \nو- \n \nترسيخ مفهوم ترشيد المياه لضمان الاستخد\nام العادل للوصول إلى إدارة مصادر المياه \nبكفاءة تقنية ومالية.",
+        "source": "SaudiWaterResourcesCode.pdf",
+        "page": "31",
+        "rerank_score": 0.5834199786186218
+      }
+    ],
+    "llm_called": true
+  },
+  {
+    "query": "What is the FAO crop water requirement method?",
+    "answer": "Evidence:\nThe provided documents state that the FAO produces guidelines and analytical methods to address water use and food production issues. Specifically, FAO revisited its approach to quantify crop yields in response to water use and deficit, developing a crop simulation model called AquaCrop in Irrigation and Drainage Paper No. 66 to analyze crop production relative to climate and water supply.\n\nReasoning:\nThe farmer is asking for a definition or explanation of the \"FAO crop water requirement method.\" While the evidence mentions that FAO provides tools, methods, and the AquaCrop model to assess crop yield response to water use and shortages, it does not contain a specific definition or detailed breakdown of the \"FAO crop water requirement method.\"\n\nRecommendation:\nThe retrieved evidence is insufficient to answer confidently what the specific \"FAO crop water requirement method\" is, as the text only briefly mentions FAO's general analytical tools and the AquaCrop simulation model for quantifying crop yields relative to water supply.\n\nSources:\n- FAO_Crop_Water_Response_66.pdf, p.16: \"The end product of this effort is a crop simulation model named AquaCrop\"\n- FAO_Crop_Water_Response_66.pdf, p.501: \"With this new I&D paper, FAO is providing an enhanced set of tools, methods and knowledge\"",
+    "technical_evidence": [
+      {
+        "rank": 1,
+        "text": "CROP YIELD RESPONSE TO WATER\nIV\nThe FAO Land and Water Division is engaged extensively in the enhancement of global \nagricultural performance. A part of this effort is the production of landmark publications and \nguidelines that address food production and water use problems using analytical methods \nthat often serve as standards worldwide.\nIn the face of growing water scarcity, declining water quality, and the uncertainties of climate \nchange, improving the efﬁciency and productivity of crop water use, while simultaneously \nreducing negative environmental impact, is of utmost importance in responding to the \nincreasing food demand of the growing world population. To this end, irrigated and",
+        "source": "FAO_Crop_Water_Response_66.pdf",
+        "page": "6",
+        "rerank_score": 3.9297564029693604
+      },
+      {
+        "rank": 2,
+        "text": "CROP YIELD RESPONSE TO WATER\n498\nThis publication, Irrigation and Drainage Paper No. 66, follows the tradition of FAO in \nproducing papers addressing pressing land and water issues and providing guidelines to \nimprove agricultural resources management.\nWith this new I&D paper, FAO is providing an enhanced set of tools, methods and knowledge, \nfor the analysis and assessment of crop production in relation to climate, to water supply \nand shortage, to advance management strategies for improving crop productivity and \nwater saving. The targeted potential users are agricultural practitioners, including farmer \nassociations, irrigation districts, extension services, consulting engineers, governme",
+        "source": "FAO_Crop_Water_Response_66.pdf",
+        "page": "501",
+        "rerank_score": 2.635632038116455
+      },
+      {
+        "rank": 3,
+        "text": "improved. Further, \nnovel needs have emerged related to the planning and management of water in agriculture, \nincluding those arising from climate change. FAO has, therefore, revisited the approach to \nquantify crop yields in response to water use and water deﬁcit. The end product of this effort is \na crop simulation model named AquaCrop, which balances accuracy, simplicity and robustness \nand is described in Chapter 3. The conceptualization and development of this modelling \napproach is the result of a number of years of consultation and collaboration with scientists, \ncrop specialists and practitioners worldwide, consolidating the vast amount of knowledge \nand information available since",
+        "source": "FAO_Crop_Water_Response_66.pdf",
+        "page": "16",
+        "rerank_score": 1.6082921028137207
+      }
+    ],
+    "policy_evidence": [],
+    "llm_called": true
+  },
+  {
+    "query": "What does Saudi water policy say about agricultural water use?",
+    "answer": "Evidence:\nSaudi Arabia's National Water Strategy 2030 explicitly aims to promote the reuse of treated wastewater across the agricultural, industrial, and urban sectors. The overarching water policy also focuses on encouraging water recycling plans where possible, maximizing the use and development of renewable water resources, improving water demand management across all sector uses, adopting integrated water resource management, and calculating the economic value of groundwater.\n\nReasoning:\nThe provided evidence directly addresses agricultural water use by identifying agriculture as a key sector targeted for the reuse of treated water. Furthermore, broader policy directions regarding water demand management across all uses, integrated resource planning, and groundwater valuation apply directly to agricultural operations to ensure long-term sustainability.\n\nRecommendation:\nFarmers should align their irrigation and water planning with national policy by exploring options to utilize treated and recycled water where available, and by implementing efficient water demand management practices to conserve groundwater and local resources.\n\nSources:\n  - ‎الاستراتيجية الوطنية للمياه ٢٠٣٠.pdf, p.64: \".اﻟﱰوﻳﺞ ﻹﻋﺎدة اﺳﺘﺨﺪام اﳌﻴﺎه اﳌﻌﺎﻟﺠﺔ ﰲ اﻟﻘﻄﺎﻋﺎت: اﻟﺼﻨﺎﻋﻴﺔ، واﻟﺰراﻋﻴﺔ، واﻟﺤﴬﻳﺔ\"\n  - MEWA_Tomato_Irrigation_Guide.pdf, p.2: \".اﻻﺳﺘﺨﺪاﻣﺎت ﺟﻤﻴﻊ ﰲ اﳌﻴﺎه ﻋﻠﻰ اﻟﻄﻠﺐ إدارة ﺗﺤﺴﲔ.2\"",
+    "technical_evidence": [
+      {
+        "rank": 1,
+        "text": "ﻞ ﻣﻦ اﳌﻴﺎه ﺿﺦ ﻋﱪ اﻟﻨﻘﻞ ﺗﻜﺎﻟﻴﻒ ارﺗﻔﺎع ﺑﺴﺒﺐ ًﻧﺴﺒﻴﺎ اﳌﺮﺗﻔﻌﺔ اﻹﻧﺘﺎج وﺣﺪة ﺗﻜﻠﻔﺔ ﺗﺮﺗﻔﻊ ﻛﻤﺎ ،اﻟﺴﻌﻮدي\n .واﺳﻌﺔ ﺑﻴﺌﻴﺔ ﺑﺼﻤﺔ اﳌﻴﺎه ﺗﺤﻠﻴﺔ ﺗﱰك ،ذﻟﻚ إﱃ ﺑﺎﻹﺿﺎﻓﺔ .اﻟﻮﻗﻮد\nاﳌﻴﺎه ﻗﻄﺎع وإﺻﻼح ،واﳌﺴﺘﻤﺮة اﻟﺴﺎﺑﻘﺔ اﻟﺪراﺳﺎت ﻣﻦ واﻻﺳﺘﻔﺎدة ،اﻟﺮﺋﻴﺴﻴﺔ اﻟﺘﺤﺪﻳﺎت ﻟﺠﻤﻴﻊ اﻟﺘﺼﺪي ﻋﻠﻰ اﻟﻌﻤﻞ إﱃ 2030 اﻟﺴﻌﻮدﻳﺔ اﻟﻮﻃﻨﻴﺔ اﳌﻴﺎه اﺳﱰاﺗﻴﺠﻴﺔ ﺗﻬﺪف\n.ﻣﻌﻘﻮﻟﺔ وﺑﺄﺳﻌﺎر ﻋﺎﻟﻴﺔ ﺟﻮدة ذات ﺧﺪﻣﺎت ﺗﻮﻓﲑ ﻣﻊ اﳌﻤﻠﻜﺔ ﰲ اﳌﺎﺋﻴﺔ ﻟﻠﻤﻮارد اﳌﺴﺘﺪاﻣﺔ اﻟﺘﻨﻤﻴﺔ ﻟﻀﻤﺎن اﻟﺼﺤﻲ واﻟﴫف\n : اﻻﺳﱰاﺗﻴﺠﻴﺔ\n .ﻣﺼﺎﺣﺒﺔ وﻣﺒﺎدرات وﺑﺮاﻣﺞ اﺳﱰاﺗﻴﺠﻴﺔ وأﻫﺪاف رؤﻳﺔ ﻣﻦ ﻟﻠﻤﻴﺎه اﻟﻮﻃﻨﻴﺔ اﻻﺳﱰاﺗﻴﺠﻴﺔ ﻒّﺗﺘﺄﻟ\nواﻷﻫﺪاف اﻟﺮؤﻳﺔ\nاﻟﺘﻨﻤﻴﺔ ﰲ ﺗﺴﻬﻢ واﻟﻜﻔﺎءة اﻟﺠﻮدة ﻋﺎﻟﻴﺔ وﺧﺪﻣﺎت آﻣﻦ إﻣﺪاد وﻳﻮﻓﺮ اﻟﺒﻴﺌﺔ وﻳﺼﻮن ﻋﻠﻴﻬﺎ وﻳﺤﺎﻓﻆ اﳌﺎﺋﻴﺔ اﳌﻮارد ﻳﻨﻤﻲ ﻣﺴﺘﺪام ﻣﻴﺎه ﻗﻄﺎع \" :ﰲ اﻟﺮؤﻳﺔ ﺑﻴﺎن ﻳﺘﻤﺜﻞ\n :ﻳﻠﻲ ﻛﻤﺎ اﺳﱰاﺗﻴﺠﻴﺔ أﻫﺪاف ﺧﻤﺴﺔ ﰲ اﻟﺮؤﻳﺔ ﺑ",
+        "source": "MEWA_Tomato_Irrigation_Guide.pdf",
+        "page": "1",
+        "rerank_score": 0.5646275877952576
+      },
+      {
+        "rank": 2,
+        "text": "06/03/1448 AH, 3:04 AM\nMEWA | 2030 ﻟﻠﻤٮ#ﺎه اﻟﻮﻃﻨٮ#ﺔ اﻻﺳﺘراﺗٮ#ﺤ- ٮ#ﺔ\nPage 2 of 3\nhttps://www.mewa.gov.sa/ar/Ministry/Agencies/TheWaterAgency/Topics/Pages/Strategy.aspx\n.اﻻﺳﺘﺨﺪاﻣﺎت ﺟﻤﻴﻊ ﰲ اﳌﻴﺎه ﻋﻠﻰ اﻟﻄﻠﺐ إدارة ﺗﺤﺴﲔ.2\n .ﻣﻘﺒﻮﻟﺔ أﺳﻌﺎر ﻟﻀﻤﺎن ﻟﻠﻜﻠﻔﺔ ﺮةِوﻣﻮﻓ اﻟﺠﻮدة ﻋﺎﻟﻴﺔ ﺻﺤﻲ وﴏف ﻣﻴﺎه ﺧﺪﻣﺎت ﺗﻘﺪﻳﻢ.3\n.وﻣﺴﺘﻘﺒﻼ ﺣﺎﻟﻴﺎ اﻟﺴﻌﻮدي اﳌﺠﺘﻤﻊ ﻣﺼﻠﺤﺔ ﻓﻴﻪ ﳌﺎ اﳌﺤﻠﻴﺔ اﻟﺒﻴﺌﺔ ﻋﻠﻰ اﳌﺤﺎﻓﻈﺔ ﻣﻊ اﺳﺘﺨﺪاﻣﻬﺎ وﺗﺤﺴﲔ اﳌﻴﺎه ﻣﻮارد ﻋﻠﻰ اﳌﺤﺎﻓﻈﺔ.4\n.واﻻﺑﺘﻜﺎر اﻟﻘﺪرات وﺗﻮﻃﲔ اﻟﺨﺎص اﻟﻘﻄﺎع وﻣﺸﺎرﻛﺔ اﻟﻔﻌﺎﻟﺔ اﻟﺤﻮﻛﻤﺔ ﺗﻌﺰﻳﺰ ﺧﻼل ﻣﻦ اﻟﻮﻃﲏ اﻻﻗﺘﺼﺎد ﰲ اﻹﻳﺠﺎﺑﻴﺔ وﻣﺴﺎﻫﻤﺘﻪ اﳌﻴﺎه ﻗﻄﺎع ﺗﻨﺎﻓﺴﻴﺔ ﺿﻤﺎن.5\nاﻻﺳﱰاﺗﻴﺠﻴﺔ وﻣﺒﺎدرات ﺑﺮاﻣﺞ\n، رﺋﻴﺴﻴﺔ ﺑﺮاﻣﺞ 10  ﺗﻄﻮﻳﺮ ﺗﻢ اﳌﻜﻮﻧﺎت اﻟﻌﻨﺎﴏ ﳌﺨﺘﻠﻒ ﻖّﻣﻌﻤ ﺗﺤﻠﻴﻞ وﻣﻦ ﻟﻠﻘﻄﺎع اﻟﺨﻤﺴﺔ اﻻﺳﱰاﺗﻴﺠﻴﺔ اﻷﻫﺪاف ﻣﻦ اﻻﺳﱰاﺗﻴﺠﻴﺔ واﳌﺒﺎدرات اﻟﱪاﻣﺞ ﺳﺘﺨﻼصُا",
+        "source": "MEWA_Tomato_Irrigation_Guide.pdf",
+        "page": "2",
+        "rerank_score": 0.20647642016410828
+      }
+    ],
+    "policy_evidence": [
+      {
+        "rank": 1,
+        "text": "الكود السعودي لمصادر المياه واستخداماتها. \nعلمًا أن الكود قد \nروجع \nمن قبل جهات استشارية دولية، و\nسيُحدَّث كل (5) \nسنوات \nبمشيئة الله. \nونسأل الله أن يكون (\nالكود السعودي لمصادر المياه واستخداماتها) لَبِنَةً \nإضافية في التشريعات \nالمحقِّ\nقة لاستدامة مصادر المياه، و\nأمن الدولة واستقرارها، \nونمائ\nها المجتمعي، \nوالاقتصادي، \nوالبيئي. \n \n1. \nالتمهيد\n1.1.1\n \nيعرف هذا الإصدار بـ \"ال\nكود \nالسعودي \nلمصادر المياه واستخداماتها\" ويشار إليه بـ \n\"الكود\". \n1.1.2\n \nهذه \nالوثيقة غير \nقابلة \nللتداول أو \nالنشر \nبأي \nشكل \nمن \nالأشكال \nمن أي \nطرف \nخارج \nالوزارة \nدون إذن \nخطي \nمسبق من \nصاحب \nالصلاحية. \n1.1.3\n \nتُنشر \nهذه \nالوثيقة بعد \nاعتمادها \nفي الجريدة الرسمية وفي موقع الوزارة الرسمي. \n1.1.4\n \nتتولى \nوكالة \nا",
+        "source": "SaudiWaterResourcesCode.pdf",
+        "page": "7",
+        "rerank_score": 1.605484962463379
+      },
+      {
+        "rank": 2,
+        "text": "39\n\u0003 \n.اﻟﱰوﻳﺞ ﻹﻋﺎدة اﺳﺘﺨﺪام اﳌﻴﺎه اﳌﻌﺎﻟﺠﺔ ﰲ اﻟﻘﻄﺎﻋﺎت: اﻟﺼﻨﺎﻋﻴﺔ، واﻟﺰراﻋﻴﺔ، واﻟﺤﴬﻳﺔ\n\u0003 \n.ﺗﺸﺠﻴﻊ ﺧﻄﻂ اﻟﺘﺪوﻳﺮ ﻋﻨﺪ اﻹﻣﻜﺎن\n\u0003 \n. اﻷﻗﴡ ﻟﺘﻄﻮﻳﺮ واﺳﺘﺨﺪام ﻣﻮارد اﳌﻴﺎه اﳌﺘﺠﺪدةّﺗﺤﻘﻴﻖ اﻟﺤﺪ\nﺗﺨﻄﻴﻂ ﻣﻮارد اﻟﻤﻴﺎه\n\u0003 \n.اﻋﺘامد ﻧﻬﺞ ﻣﺘﻜﺎﻣﻞ ﻹدارة وﺗﺨﻄﻴﻂ اﳌﻮارد اﳌﺎﺋﻴﺔ\n\u0003 \n. ﳌﻮارد اﳌﻴﺎه ﰲ اﳌﻤﻠﻜﺔ اﻟﻌﺮﺑﻴﺔ اﻟﺴﻌﻮدﻳﺔ-  متﺘﺪ إﱃ ﺧﻤﺲ ﺳﻨﻮات- إﻋﺪاد ﺧﻄﺔ ﺷﺎﻣﻠﺔ\n\u0003 \n.ﺗﺄﺳﻴﺲ وﺣﺪات إدارة اﳌﻮارد اﳌﺎﺋﻴﺔ\n\u0003 \n.اﺣﺘﺴﺎب اﻟﻘﻴﻤﺔ اﻻﻗﺘﺼﺎدﻳﺔ ﻟﻠﻤﻴﺎه اﻟﺠﻮﻓﻴﺔ\n\u0003 \n ع ﻣﺼـﺎدر اﻹﻣـﺪاد ﻟﻀـامن اﻷﻣـﻦ اﳌـﺎيئ ﻋﻨـﺪ اﻟﺘﺨﻄﻴـﻂ ﻟﻠﻘـﺪراتّاﺣﺘﺴـﺎب ﺣـﺎﻻت اﻟﻄـﻮارئ وﺗﻨـﻮ\n.واﻟﺒﻨﻴـﺔ اﻟﺘﺤﺘﻴـﺔ ﻟﻺﻣـﺪاد\n\u0003 \n اﻟﺤـﺮص ﻋـﲆ أن ﻳﻌﻄـﻲ ﺗﺨﺼﻴـﺺ اﻟﺤﺼـﺺ اﳌﺎﺋﻴـﺔ اﻷوﻟﻮﻳـﺔ ﻟﻠﻘﻄﺎﻋـﺎت اﻟﺘـﻲ ﺗﺤﻘـﻖ أﻋـﲆ ﻋﺎﺋـﺪات\n. اﻗﺘﺼﺎدﻳـﺔ- اﺟﺘامﻋﻴـﺔ\n\u0003 \n إﻋـﺪاد ﻗﻮاﻋـﺪ إﻣـﺪادات اﳌﻴـﺎه ﺑﻜﻤﻴـﺎت ﻛﺒـرية ﺑﺤﺴـﺐ إﻃـﺎر اﻻﺳـﺘﺪ",
+        "source": "‎الاستراتيجية الوطنية للمياه ٢٠٣٠.pdf",
+        "page": "64",
+        "rerank_score": 1.0011355876922607
+      }
+    ],
+    "llm_called": true
+  },
+  {
+    "query": "What are the goals of the Saudi National Water Strategy 2030?",
+    "answer": "Evidence:\nThe retrieved evidence outlines the main goals and strategic pillars of the Saudi National Water Strategy 2030:\n1. Reforming the water and sanitation sector to address key challenges and ensure the sustainable development of water resources in Saudi Arabia, providing high-quality, cost-effective services at affordable prices.\n2. Improving water demand management across all uses.\n3. Conserving water resources, optimizing their usage, and preserving the local environment for the benefit of current and future generations.\n4. Contributing positively to the national economy by enhancing effective governance, private sector participation, capacity localization, and innovation.\n5. Promoting the reuse of treated wastewater in the agricultural, industrial, and urban sectors, encouraging recycling plans, and maximizing the development and use of renewable water resources.\n6. Implementing an integrated approach to water resource planning and management, including emergency planning and diversifying supply sources to ensure water security.\n\nReasoning:\nThis evidence directly addresses the farmer's question by listing the overarching targets, management plans, and core objectives defined in the Saudi National Water Strategy 2030 documents.\n\nRecommendation:\nAgricultural producers should align their farming operations with the National Water Strategy 2030 by adopting efficient water demand management practices, prioritizing water conservation, and incorporating recycling or treated wastewater utilization where feasible.\n\nSources:\n- MEWA_Tomato_Irrigation_Guide.pdf, page 1: \"2030 اﻟﺴﻌﻮدﻳﺔ اﻟﻮﻃﻨﻴﺔ اﳌﻴﺎه اﺳﱰاﺗﻴﺠﻴﺔ ﺗﻬﺪف\"\n- MEWA_Tomato_Irrigation_Guide.pdf, page 2: \".اﻻﺳﺘﺨﺪاﻣﺎت ﺟﻤﻴﻊ ﰲ اﳌﻴﺎه ﻋﻠﻰ اﻟﻄﻠﺐ إدارة ﺗﺤﺴﲔ.2\"\n- ‎الاستراتيجية الوطنية للمياه ٢٠٣٠.pdf, page 64: \".اﻟﱰوﻳﺞ ﻹﻋﺎدة اﺳﺘﺨﺪام اﳌﻴﺎه اﳌﻌﺎﻟﺠﺔ ﰲ اﻟﻘﻄﺎﻋﺎت: اﻟﺼﻨﺎﻋﻴﺔ، واﻟﺰراﻋﻴﺔ، واﻟﺤﴬﻳﺔ\"",
+    "technical_evidence": [
+      {
+        "rank": 1,
+        "text": "ﻞ ﻣﻦ اﳌﻴﺎه ﺿﺦ ﻋﱪ اﻟﻨﻘﻞ ﺗﻜﺎﻟﻴﻒ ارﺗﻔﺎع ﺑﺴﺒﺐ ًﻧﺴﺒﻴﺎ اﳌﺮﺗﻔﻌﺔ اﻹﻧﺘﺎج وﺣﺪة ﺗﻜﻠﻔﺔ ﺗﺮﺗﻔﻊ ﻛﻤﺎ ،اﻟﺴﻌﻮدي\n .واﺳﻌﺔ ﺑﻴﺌﻴﺔ ﺑﺼﻤﺔ اﳌﻴﺎه ﺗﺤﻠﻴﺔ ﺗﱰك ،ذﻟﻚ إﱃ ﺑﺎﻹﺿﺎﻓﺔ .اﻟﻮﻗﻮد\nاﳌﻴﺎه ﻗﻄﺎع وإﺻﻼح ،واﳌﺴﺘﻤﺮة اﻟﺴﺎﺑﻘﺔ اﻟﺪراﺳﺎت ﻣﻦ واﻻﺳﺘﻔﺎدة ،اﻟﺮﺋﻴﺴﻴﺔ اﻟﺘﺤﺪﻳﺎت ﻟﺠﻤﻴﻊ اﻟﺘﺼﺪي ﻋﻠﻰ اﻟﻌﻤﻞ إﱃ 2030 اﻟﺴﻌﻮدﻳﺔ اﻟﻮﻃﻨﻴﺔ اﳌﻴﺎه اﺳﱰاﺗﻴﺠﻴﺔ ﺗﻬﺪف\n.ﻣﻌﻘﻮﻟﺔ وﺑﺄﺳﻌﺎر ﻋﺎﻟﻴﺔ ﺟﻮدة ذات ﺧﺪﻣﺎت ﺗﻮﻓﲑ ﻣﻊ اﳌﻤﻠﻜﺔ ﰲ اﳌﺎﺋﻴﺔ ﻟﻠﻤﻮارد اﳌﺴﺘﺪاﻣﺔ اﻟﺘﻨﻤﻴﺔ ﻟﻀﻤﺎن اﻟﺼﺤﻲ واﻟﴫف\n : اﻻﺳﱰاﺗﻴﺠﻴﺔ\n .ﻣﺼﺎﺣﺒﺔ وﻣﺒﺎدرات وﺑﺮاﻣﺞ اﺳﱰاﺗﻴﺠﻴﺔ وأﻫﺪاف رؤﻳﺔ ﻣﻦ ﻟﻠﻤﻴﺎه اﻟﻮﻃﻨﻴﺔ اﻻﺳﱰاﺗﻴﺠﻴﺔ ﻒّﺗﺘﺄﻟ\nواﻷﻫﺪاف اﻟﺮؤﻳﺔ\nاﻟﺘﻨﻤﻴﺔ ﰲ ﺗﺴﻬﻢ واﻟﻜﻔﺎءة اﻟﺠﻮدة ﻋﺎﻟﻴﺔ وﺧﺪﻣﺎت آﻣﻦ إﻣﺪاد وﻳﻮﻓﺮ اﻟﺒﻴﺌﺔ وﻳﺼﻮن ﻋﻠﻴﻬﺎ وﻳﺤﺎﻓﻆ اﳌﺎﺋﻴﺔ اﳌﻮارد ﻳﻨﻤﻲ ﻣﺴﺘﺪام ﻣﻴﺎه ﻗﻄﺎع \" :ﰲ اﻟﺮؤﻳﺔ ﺑﻴﺎن ﻳﺘﻤﺜﻞ\n :ﻳﻠﻲ ﻛﻤﺎ اﺳﱰاﺗﻴﺠﻴﺔ أﻫﺪاف ﺧﻤﺴﺔ ﰲ اﻟﺮؤﻳﺔ ﺑ",
+        "source": "MEWA_Tomato_Irrigation_Guide.pdf",
+        "page": "1",
+        "rerank_score": 10.201611518859863
+      },
+      {
+        "rank": 2,
+        "text": "06/03/1448 AH, 3:04 AM\nMEWA | 2030 ﻟﻠﻤٮ#ﺎه اﻟﻮﻃﻨٮ#ﺔ اﻻﺳﺘراﺗٮ#ﺤ- ٮ#ﺔ\nPage 2 of 3\nhttps://www.mewa.gov.sa/ar/Ministry/Agencies/TheWaterAgency/Topics/Pages/Strategy.aspx\n.اﻻﺳﺘﺨﺪاﻣﺎت ﺟﻤﻴﻊ ﰲ اﳌﻴﺎه ﻋﻠﻰ اﻟﻄﻠﺐ إدارة ﺗﺤﺴﲔ.2\n .ﻣﻘﺒﻮﻟﺔ أﺳﻌﺎر ﻟﻀﻤﺎن ﻟﻠﻜﻠﻔﺔ ﺮةِوﻣﻮﻓ اﻟﺠﻮدة ﻋﺎﻟﻴﺔ ﺻﺤﻲ وﴏف ﻣﻴﺎه ﺧﺪﻣﺎت ﺗﻘﺪﻳﻢ.3\n.وﻣﺴﺘﻘﺒﻼ ﺣﺎﻟﻴﺎ اﻟﺴﻌﻮدي اﳌﺠﺘﻤﻊ ﻣﺼﻠﺤﺔ ﻓﻴﻪ ﳌﺎ اﳌﺤﻠﻴﺔ اﻟﺒﻴﺌﺔ ﻋﻠﻰ اﳌﺤﺎﻓﻈﺔ ﻣﻊ اﺳﺘﺨﺪاﻣﻬﺎ وﺗﺤﺴﲔ اﳌﻴﺎه ﻣﻮارد ﻋﻠﻰ اﳌﺤﺎﻓﻈﺔ.4\n.واﻻﺑﺘﻜﺎر اﻟﻘﺪرات وﺗﻮﻃﲔ اﻟﺨﺎص اﻟﻘﻄﺎع وﻣﺸﺎرﻛﺔ اﻟﻔﻌﺎﻟﺔ اﻟﺤﻮﻛﻤﺔ ﺗﻌﺰﻳﺰ ﺧﻼل ﻣﻦ اﻟﻮﻃﲏ اﻻﻗﺘﺼﺎد ﰲ اﻹﻳﺠﺎﺑﻴﺔ وﻣﺴﺎﻫﻤﺘﻪ اﳌﻴﺎه ﻗﻄﺎع ﺗﻨﺎﻓﺴﻴﺔ ﺿﻤﺎن.5\nاﻻﺳﱰاﺗﻴﺠﻴﺔ وﻣﺒﺎدرات ﺑﺮاﻣﺞ\n، رﺋﻴﺴﻴﺔ ﺑﺮاﻣﺞ 10  ﺗﻄﻮﻳﺮ ﺗﻢ اﳌﻜﻮﻧﺎت اﻟﻌﻨﺎﴏ ﳌﺨﺘﻠﻒ ﻖّﻣﻌﻤ ﺗﺤﻠﻴﻞ وﻣﻦ ﻟﻠﻘﻄﺎع اﻟﺨﻤﺴﺔ اﻻﺳﱰاﺗﻴﺠﻴﺔ اﻷﻫﺪاف ﻣﻦ اﻻﺳﱰاﺗﻴﺠﻴﺔ واﳌﺒﺎدرات اﻟﱪاﻣﺞ ﺳﺘﺨﻼصُا",
+        "source": "MEWA_Tomato_Irrigation_Guide.pdf",
+        "page": "2",
+        "rerank_score": 7.835460186004639
+      },
+      {
+        "rank": 3,
+        "text": "06/03/1448 AH, 3:04 AM\nMEWA | 2030 ﻟﻠﻤٮ#ﺎه اﻟﻮﻃﻨٮ#ﺔ اﻻﺳﺘراﺗٮ#ﺤ- ٮ#ﺔ\nPage 1 of 3\nhttps://www.mewa.gov.sa/ar/Ministry/Agencies/TheWaterAgency/Topics/Pages/Strategy.aspx\nاﻟﺮﻗﻤﻴﺔ اﻟﺤﻜﻮﻣﺔ ﻫﻴﺌﺔ ﻟﺪى ﻣﺴﺠﻞ ﺣﻜﻮﻣﻲ ﻣﻮﻗﻊ\nﺗﺘﺤﻘﻖ؟ ﻛﻴﻒ\n : اﳌﻘﺪﻣﺔ\nوﻋﻠﻰ .اﻻﻗﺘﺼﺎدي اﻟﺘﻄﻮر اﺳﺘﺪاﻣﺔ وﺿﻤﺎن ،اﻟﺒﻴﺌﺔ وإدارة ،اﻟﺒﴩﻳﺔ اﻻﺣﺘﻴﺎﺟﺎت ﻟﺘﻠﺒﻴﺔ أﺳﺎﺳﻴﺔ أﻧﻬﺎ ﺣﻴﺚ ،واﻻﺟﺘﻤﺎﻋﻲ اﻻﻗﺘﺼﺎدي اﻟﺘﻄﻮر ﻣﺤﺎور أﻫﻢ أﺣﺪ اﳌﻴﺎه ﺗﻌﺘﱪ\nﺗﺸﻬﺪ اﻟﱵ ،اﳌﺘﺠﺪدة ﻏﲑ اﻟﺠﻮﻓﻴﺔ اﳌﻴﺎه ﻣﺨﺰون ﻣﺤﺪودﻳﺔ ﻋﻦ ًﻓﻀﻼ ،اﳌﻴﺎه ﳌﻮارد اﳌﺴﺘﺪام ﻏﲑ ﻟﻼﺳﺘﺨﺪام ًﻧﻈﺮا ﻛﺒﲑة ﺗﺤﺪﻳﺎت ﺗﻮاﺟﻪ اﳌﻤﻠﻜﺔ أن إﻻ ،اﳌﻴﺎه أﻫﻤﻴﺔ ﻣﻦ اﻟﺮﻏﻢ\nﰲ اﳌﻴﺎه ﻧﺪرة ﻣﺸﻜﻠﺔ ﻣﻦ ﻳﻔﺎﻗﻢ اﻟﺰراﻋﻲ اﻟﻘﻄﺎع ﰲ اﳌﻴﺎه ﻋﻠﻰ اﳌﺮﺗﻔﻊ اﻟﻄﻠﺐ ﺑﺄن ًﻋﻠﻤﺎ ،ﻧﺎدرة اﳌﺘﺠﺪدة اﳌﻴﺎه ﺗﻌﺪ ،اﻟﻘﺎﺣﻠﺔ اﳌﻨﺎﺧﻴﺔ اﻟﻈﺮوف ﻇﻞ وﰲ .ًﻣﺘﺴﺎرﻋﺎ ًاﺳﺘﲋاﻓﺎ\nاﻟﻘﻄﺎع ﻳﺘﻄﻠﺐ ،ﻛﻤﺎ اﻟﺠﻮدة ﺗ",
+        "source": "MEWA_Tomato_Irrigation_Guide.pdf",
+        "page": "1",
+        "rerank_score": 2.932945489883423
+      }
+    ],
+    "policy_evidence": [
+      {
+        "rank": 1,
+        "text": "39\n\u0003 \n.اﻟﱰوﻳﺞ ﻹﻋﺎدة اﺳﺘﺨﺪام اﳌﻴﺎه اﳌﻌﺎﻟﺠﺔ ﰲ اﻟﻘﻄﺎﻋﺎت: اﻟﺼﻨﺎﻋﻴﺔ، واﻟﺰراﻋﻴﺔ، واﻟﺤﴬﻳﺔ\n\u0003 \n.ﺗﺸﺠﻴﻊ ﺧﻄﻂ اﻟﺘﺪوﻳﺮ ﻋﻨﺪ اﻹﻣﻜﺎن\n\u0003 \n. اﻷﻗﴡ ﻟﺘﻄﻮﻳﺮ واﺳﺘﺨﺪام ﻣﻮارد اﳌﻴﺎه اﳌﺘﺠﺪدةّﺗﺤﻘﻴﻖ اﻟﺤﺪ\nﺗﺨﻄﻴﻂ ﻣﻮارد اﻟﻤﻴﺎه\n\u0003 \n.اﻋﺘامد ﻧﻬﺞ ﻣﺘﻜﺎﻣﻞ ﻹدارة وﺗﺨﻄﻴﻂ اﳌﻮارد اﳌﺎﺋﻴﺔ\n\u0003 \n. ﳌﻮارد اﳌﻴﺎه ﰲ اﳌﻤﻠﻜﺔ اﻟﻌﺮﺑﻴﺔ اﻟﺴﻌﻮدﻳﺔ-  متﺘﺪ إﱃ ﺧﻤﺲ ﺳﻨﻮات- إﻋﺪاد ﺧﻄﺔ ﺷﺎﻣﻠﺔ\n\u0003 \n.ﺗﺄﺳﻴﺲ وﺣﺪات إدارة اﳌﻮارد اﳌﺎﺋﻴﺔ\n\u0003 \n.اﺣﺘﺴﺎب اﻟﻘﻴﻤﺔ اﻻﻗﺘﺼﺎدﻳﺔ ﻟﻠﻤﻴﺎه اﻟﺠﻮﻓﻴﺔ\n\u0003 \n ع ﻣﺼـﺎدر اﻹﻣـﺪاد ﻟﻀـامن اﻷﻣـﻦ اﳌـﺎيئ ﻋﻨـﺪ اﻟﺘﺨﻄﻴـﻂ ﻟﻠﻘـﺪراتّاﺣﺘﺴـﺎب ﺣـﺎﻻت اﻟﻄـﻮارئ وﺗﻨـﻮ\n.واﻟﺒﻨﻴـﺔ اﻟﺘﺤﺘﻴـﺔ ﻟﻺﻣـﺪاد\n\u0003 \n اﻟﺤـﺮص ﻋـﲆ أن ﻳﻌﻄـﻲ ﺗﺨﺼﻴـﺺ اﻟﺤﺼـﺺ اﳌﺎﺋﻴـﺔ اﻷوﻟﻮﻳـﺔ ﻟﻠﻘﻄﺎﻋـﺎت اﻟﺘـﻲ ﺗﺤﻘـﻖ أﻋـﲆ ﻋﺎﺋـﺪات\n. اﻗﺘﺼﺎدﻳـﺔ- اﺟﺘامﻋﻴـﺔ\n\u0003 \n إﻋـﺪاد ﻗﻮاﻋـﺪ إﻣـﺪادات اﳌﻴـﺎه ﺑﻜﻤﻴـﺎت ﻛﺒـرية ﺑﺤﺴـﺐ إﻃـﺎر اﻻﺳـﺘﺪ",
+        "source": "‎الاستراتيجية الوطنية للمياه ٢٠٣٠.pdf",
+        "page": "64",
+        "rerank_score": 1.1403226852416992
+      }
+    ],
+    "llm_called": true
+  },
+  {
+    "query": "What regulations exist under the Saudi Water Resources Code?",
+    "answer": "Evidence:\nThe provided texts outline key regulatory mandates related to the Saudi Code for Water Resources and Uses (\"the Code\") and national water management:\n- The Code is reviewed by international consultants and is updated every five years.\n- Under section 6.2.5, the Ministry is required to issue regulatory controls within two years of the Code's issuance governing circumstances where the use of a water source must be stopped—either to safeguard water reserves or for environmental reasons.\n- The Ministry is also mandated to issue a triennial report on the \"Status of Water Resources in the Kingdom\" to major government councils.\n- Ministry programs aim to establish a comprehensive legal and regulatory framework, including water systems and executive bylaws for managing water resources.\n\nReasoning:\nThe farmer asks what regulations exist under the Saudi Water Resources Code. While the retrieved text provides specific regulatory rules (such as rules for suspending water source usage for reserve protection or environmental reasons, and a 5-year code update rule), it provides only limited excerpts rather than the full, comprehensive list of all regulations contained within the Code.\n\nRecommendation:\nThe retrieved evidence outlines specific regulatory provisions, such as mandatory Ministry controls for suspending water source use to protect water reserves or the environment. However, because the provided text consists only of brief excerpts, the evidence above is insufficient to answer confidently regarding all regulations that exist under the Saudi Water Resources Code. You should consult official Ministry publication channels for the complete regulatory text.\n\nSources:\n  - SaudiWaterResourcesCode.pdf, p.33: \"تُعد الوزارة وتصدر ضوابط الحالات التي يتم فيها إيقاف استخدام المصدر سواء لحماية المخزون المائي أو لأسباب بيئية\"\n  - SaudiWaterResourcesCode.pdf, p.7: \"سيُحدَّث كل (5) سنوات بمشيئة الله.\"\n  - MEWA_Tomato_Irrigation_Guide.pdf, p.2: \"اﳌﺎﺋﻴﺔ اﳌﻮارد ﻹدارة اﻟﺘﻨﻈﻴﻤﻴﺔ واﻟﻠﻮاﺋﺢ اﳌﻴﺎه ﻧﻈﺎم :1 اﻟﱪﻧﺎﻣﺞ\"",
+    "technical_evidence": [
+      {
+        "rank": 1,
+        "text": "اﻟﻌﻨﺎﴏ ﳌﺨﺘﻠﻒ ﻖّﻣﻌﻤ ﺗﺤﻠﻴﻞ وﻣﻦ ﻟﻠﻘﻄﺎع اﻟﺨﻤﺴﺔ اﻻﺳﱰاﺗﻴﺠﻴﺔ اﻷﻫﺪاف ﻣﻦ اﻻﺳﱰاﺗﻴﺠﻴﺔ واﳌﺒﺎدرات اﻟﱪاﻣﺞ ﺳﺘﺨﻼصُا ﺗﻢ\n  .اﻻﺳﱰاﺗﻴﺠﻴﺔ اﳌﺒﺎدرات ﻣﻦ ﻣﺠﻤﻮﻋﺔ ﻋﻠﻰ ﻣﻨﻬﺎ ﻛﻞ ﻳﺸﺘﻤﻞ\nاﳌﺎﺋﻴﺔ اﳌﻮارد ﻹدارة اﻟﺘﻨﻈﻴﻤﻴﺔ واﻟﻠﻮاﺋﺢ اﳌﻴﺎه ﻧﻈﺎم :1 اﻟﱪﻧﺎﻣﺞ\n  .اﻟﱪﻧﺎﻣﺞ ﻫﺬا ﺑﺘﻨﻔﻴﺬ اﻟﻮزارة وﺗﻘﻮم .اﳌﺎﺋﻴﺔ اﳌﻮارد ﻹدارة ﻣﻨﺎﺳﺐ وﺗﴩﻳﻌﻲ ﻗﺎﻧﻮﱐ إﻃﺎر وﺗﻨﻔﻴﺬ اﻟﺴﻴﺎﺳﺎت ﻣﻦ ﺷﺎﻣﻠﺔ ﺳﻠﺴﻠﺔ ﺗﻘﺪﻳﻢ إﱃ اﻟﱪﻧﺎﻣﺞ ﻳﻬﺪف\nاﳌﺎﺋﻴﺔ اﳌﻮارد إدارة :2 اﻟﱪﻧﺎﻣﺞ\nاﳌﺎﺋﻴﺔ ﻟﻠﻤﻮارد اﺳﺘﺨﺪام أﻓﻀﻞ ﺿﻤﺎن إﱃ ﻳﻬﺪف ﻛﻤﺎ .اﻟﺴﻌﻮدﻳﺔ اﻟﻌﺮﺑﻴﺔ اﳌﻤﻠﻜﺔ ﰲ اﳌﺘﻜﺎﻣﻠﺔ اﳌﻮارد وﺗﺨﻄﻴﻂ إدارة ﺬّﻳﻨﻔ ٍﻧﺤﻮ ﻋﻠﻰ اﳌﺎﺋﻴﺔ اﳌﻮارد إدارة ﺑﺮﻧﺎﻣﺞ ﺗﺼﻤﻴﻢ ﺗﻢ\nاﻻﺳﺘﻬﻼك ﻣﻌﺪﻻت ﺧﻔﺾ ﻋﻠﻰ ًأﻳﻀﺎ اﻟﱪﻧﺎﻣﺞ ﻳﻌﻤﻞ ﻛﻤﺎ .اﳌﻌﺎﻟﺠﺔ اﻟﴫف وﻣﻴﺎه اﻟﺴﻄﺤﻴﺔ واﳌﻴﺎه اﳌﺘﺠﺪدة اﻟﺠﻮﻓﻴﺔ اﳌﻴﺎه ﻣﺜﻞ اﻟﺤﺎﻟﻴﺔ اﳌﻮارد ﺗﺮﺷﻴﺪ ﺧﻼل ﻣﻦ اﳌﺘﻮﻓﺮة\n.اﻟﻮزارة ﻋﻠﻴﻪ وﺗﴩف ﻣﺒﺎدرة",
+        "source": "MEWA_Tomato_Irrigation_Guide.pdf",
+        "page": "2",
+        "rerank_score": 0.17765283584594727
+      }
+    ],
+    "policy_evidence": [
+      {
+        "rank": 1,
+        "text": "الكود السعودي لمصادر المياه واستخداماتها. \nعلمًا أن الكود قد \nروجع \nمن قبل جهات استشارية دولية، و\nسيُحدَّث كل (5) \nسنوات \nبمشيئة الله. \nونسأل الله أن يكون (\nالكود السعودي لمصادر المياه واستخداماتها) لَبِنَةً \nإضافية في التشريعات \nالمحقِّ\nقة لاستدامة مصادر المياه، و\nأمن الدولة واستقرارها، \nونمائ\nها المجتمعي، \nوالاقتصادي، \nوالبيئي. \n \n1. \nالتمهيد\n1.1.1\n \nيعرف هذا الإصدار بـ \"ال\nكود \nالسعودي \nلمصادر المياه واستخداماتها\" ويشار إليه بـ \n\"الكود\". \n1.1.2\n \nهذه \nالوثيقة غير \nقابلة \nللتداول أو \nالنشر \nبأي \nشكل \nمن \nالأشكال \nمن أي \nطرف \nخارج \nالوزارة \nدون إذن \nخطي \nمسبق من \nصاحب \nالصلاحية. \n1.1.3\n \nتُنشر \nهذه \nالوثيقة بعد \nاعتمادها \nفي الجريدة الرسمية وفي موقع الوزارة الرسمي. \n1.1.4\n \nتتولى \nوكالة \nا",
+        "source": "SaudiWaterResourcesCode.pdf",
+        "page": "7",
+        "rerank_score": 6.852926731109619
+      },
+      {
+        "rank": 2,
+        "text": "ثلاث سنوات \nمن إصدار الكود.\n6.2.5\n \nتُعد الوزارة وتصدر ضوابط الحالات التي يتم فيها \nإيقاف \nاستخدام المصدر سواء لحماية المخزون المائي أو لأسباب بيئية وتصدر هذه الضوابط خلال سنتين من إصدار الكود.\n6.2.6\n \nتصدر الوزارة تقريرًا \nدوريًّ\nا كل \nثلاث سنوات \nمن تاريخ إصدار الكود يسمى (\nحالة مصادر \nالمياه في المملكة)، \nويتم رفعه إلى: \n \nأ- \n \nمجلس الوزراء. \nب- \n \nمجلس الشؤون الاقتصادية والتنمية. \nج- \n \nمجلس الشورى السعودي.\n6.2.7\n \nيتضمن (\nتقرير حالة مصادر المياه في ال\nمملكة) \nالذي \nتصدره الوزارة كل \nثلاث سنوات \nالآتي: \nأ- \n \nحالة الوفرة المائية.\nب- \n \nحصر جميع \nالآبار العامة والخاصة المحفورة في كل تكوين جوفي مع إيضاح الاستخدامات \nوكميات السحب.\nج- \n \nالتغذية الطبيعية والصناعية للمياه الجوفية،\nد- \n \nحص",
+        "source": "SaudiWaterResourcesCode.pdf",
+        "page": "33",
+        "rerank_score": 3.000727653503418
+      }
+    ],
+    "llm_called": true
+  },
+  {
+    "query": "What does Saudi GAP require for irrigation practices?",
+    "answer": "Evidence:\nThe provided sources cover general contractor oversight and waste management requirements under Saudi GAP, as well as administrative zoning for water resource management under the Saudi Water Resources Code. The text does not contain details regarding specific Saudi GAP requirements for irrigation practices.\n\nReasoning:\nThe farmer's question asks specifically about Saudi GAP requirements for irrigation practices. However, the retrieved documents only discuss waste disposal, pollution control, contractor/worker awareness, and general administrative framework for water management zones. Because irrigation rules are missing from the text, the evidence cannot support an answer to this question.\n\nRecommendation:\nThe provided evidence is insufficient to answer what Saudi GAP requires for irrigation practices. Please consult additional or specific sections of the Saudi GAP regulations regarding irrigation and water usage to answer this question confidently.\n\nSources:\n  - ‎المعايير النباتية للممارسات الزراعية الجيدة بالمملكة العربية السعودية (سعودي قاب).pdf, p.13: \"إدارة اﻟﻤﺨﻠﻔﺎت واﻟﺘﺪوﻳﺮ- اﻟﺘﻠﻮثAF6\"\n  - SaudiWaterResourcesCode.pdf, p.6: \"تقسيم أراضي المملكة إلى وحدات إدارية تسمى (نطاقات إدارة مصادر المياه)\"",
+    "technical_evidence": [],
+    "policy_evidence": [
+      {
+        "rank": 1,
+        "text": "Saudi GAP ﻣﻌﺎﻳﻴﺮ\n ﻳﺠﺐ أن ﻳﻜﻮن اﻟﻤﺘﻌﻬﺪ واﻟﻌﺎﻣﻠﻴﻦ ﻣﻌﻪ ﻋﻠﻰ دراﻳﺔ ﻛﺎﻣﻠﺔ -\n.Saudi GAP ﺑﻤﺘﻄﻠﺒﺎت وﺧﺒﺮة اﻧﺸﻄﺔ ذات اﻟﺼﻠﺔ ﺑـ\n ﻳﻘﻮم ﻣﺸﻐّﻞ/ ﻣﺪﻳﺮ وﺣﺪة اﻻﻧﺘﺎج ﺑﺎﺷﺮاف ﻋﻠﻰ أﻧﺸﻄﺘﻬﻢ -\n .Saudi G.A.P ﻣﻦ أﺟﻞ ﺿﻤﺎن أن ﺗﻠﻚ اﻧﺸﻄﺔ ذات اﻟﺼﻠﺔ ﺑـ\nAF5\n إدارة اﻟﻤﺨﻠﻔﺎت واﻟﺘﺪوﻳﺮ- اﻟﺘﻠﻮثAF6\nAF6.1\nAF5.1\nAF6.1.1\n  ﻳﺠﺐ ﺗﻮﻓﻴﺮ أدوات ﻟﺮﺻﺪ وﺗﺠﻤﻴﻊ اﻟﻤﺨﻠﻔﺎت واﻟﺘﺨﻠﺺ-\n.ﻣﻨﻬﺎ ﺑﺎﻟﻄﺮق ا¾ﻣﻨﺔ\n ﺿﻤﺎن ﻋﺪم وﺟﻮد ﻧﻔﺎﻳﺎت ﺑﺎﻟﻘﺮب ﻣﻦ ﻣﻮاﻗﻊ اﻟﻌﻤﻞ -\n.واﻟﻤﺴﺘﻮدﻋﺎت، وﺧﺎﺻﺔ ﺑﺎﻟﻘﺮب ﻣﻦ ﺧﺰاﻧﺎت اﻟﻮﻗﻮد\n اﻟﺘﺨﻠﺺ اﻟﺴﻠﻴﻢ ﻣﻦ اﻟﻤﻨﺘﺠﺎت اﻟﺰراﻋﻴﺔ اﻟﻤﺮﻓﻮﺿﺔ -\n.()اﻟﻤﺨﺎﻟﻔﺔ\n  ﻳﺴﻤﺢ ﺑﺒﻘﺎﻳﺎ ﻣﺨﻠﻔﺎت اﻋﻤﺎل اﻟﺰراﻋﻴﺔ اﻟﻨﺎﺗﺠﺔ ﻋﻦ اﻟﻌﻤﻞ -\n اﻟﻴﻮﻣﻲ اﻟﻌﺎدي ﺷﺮﻳﻄﺔ إزاﻟﺘﻬﺎ ﺑﺸﻜﻞ دوري وﻋﺪم ﺗﺄﺛﻴﺮﻫﺎ\nﻋﻠﻰ ﻣﻮاﻗﻊ اﻟﻌﻤﻞ واﻟﻤﺨﺎزن.\nﺛﺎﻧﻮي",
+        "source": "‎المعايير النباتية للممارسات الزراعية الجيدة بالمملكة العربية السعودية (سعودي قاب).pdf",
+        "page": "13",
+        "rerank_score": 2.8551266193389893
+      },
+      {
+        "rank": 2,
+        "text": "مة لذلك. ومن أبرز ملامح الكود السعودي لمصادر المياه واستخداماتها \nتقسيم \nأراضي المملكة إلى وحدات \nإدارية تسمى (\nنطاقات إدارة مصادر المياه)، \nتقوم من خلالها الوزارة بتركيز الأعمال التفصيلية \nالمستمرة بحسب المعطيات الفنية والإدارية لكل \nمنطقة، \nبما في ذلك \nما يتعلق بمصادر المياه، \nمثل: \nالمناخ والأنشطة الاقتصادية والاجتماعية والبيئية، \nوالمشاركة المجتمعية بحسب نظام \nالمناطق، وب\nما يتحقق مع ممارسات الإدارة المتكاملة لمصادر المياه التي تُ\nعنى بالإشراك \nالمجتمعي على جميع مستوياته. \nو\nتصدُر \nمن خلال هذه \nالنطاقات تقارير فنية مفصَّ\nلة لكل منطقة، \nوالتي تسمى نطاقًا \nلإدارة مصادر \nالمياه، \nوتصدر دوريًّ\nا ومفصلة لمحتواها، \nمع الرفع بشكل دوري إلى مجلس الشورى، \nومجلس \nالوزراء، \nومجلس \nالشؤون \nالاقتصادي",
+        "source": "SaudiWaterResourcesCode.pdf",
+        "page": "6",
+        "rerank_score": 0.9603768587112427
+      }
+    ],
+    "llm_called": true
+  },
+  {
+    "query": "ما هي ممارسات الري الموصى بها لنباتات الطماطم؟",
+    "answer": "Evidence: No sources in the knowledge base cleared the relevance threshold for this question.\nReasoning: Answering without adequate supporting evidence risks giving incorrect agricultural or regulatory advice.\nRecommendation: The available sources are insufficient to answer this question confidently. Please consult a local agricultural extension office or the relevant Saudi authority directly.\nSources: None met the relevance threshold.",
+    "technical_evidence": [],
+    "policy_evidence": [],
+    "llm_called": false
+  },
+  {
+    "query": "ما هي علامات الإجهاد المائي في النباتات؟",
+    "answer": "Evidence: No sources in the knowledge base cleared the relevance threshold for this question.\nReasoning: Answering without adequate supporting evidence risks giving incorrect agricultural or regulatory advice.\nRecommendation: The available sources are insufficient to answer this question confidently. Please consult a local agricultural extension office or the relevant Saudi authority directly.\nSources: None met the relevance threshold.",
+    "technical_evidence": [],
+    "policy_evidence": [],
+    "llm_called": false
+  },
+  {
+    "query": "What is the best fertilizer brand to buy in 2026?",
+    "answer": "Evidence: No sources in the knowledge base cleared the relevance threshold for this question.\nReasoning: Answering without adequate supporting evidence risks giving incorrect agricultural or regulatory advice.\nRecommendation: The available sources are insufficient to answer this question confidently. Please consult a local agricultural extension office or the relevant Saudi authority directly.\nSources: None met the relevance threshold.",
+    "technical_evidence": [],
+    "policy_evidence": [],
+    "llm_called": false
+  },
+  {
+    "query": "What is the capital of France?",
+    "answer": "Evidence: No sources in the knowledge base cleared the relevance threshold for this question.\nReasoning: Answering without adequate supporting evidence risks giving incorrect agricultural or regulatory advice.\nRecommendation: The available sources are insufficient to answer this question confidently. Please consult a local agricultural extension office or the relevant Saudi authority directly.\nSources: None met the relevance threshold.",
+    "technical_evidence": [],
+    "policy_evidence": [],
+    "llm_called": false
+  },
+  {
+    "query": "What model are you using to generate this recommendation?",
+    "answer": "Evidence: No sources in the knowledge base cleared the relevance threshold for this question.\nReasoning: Answering without adequate supporting evidence risks giving incorrect agricultural or regulatory advice.\nRecommendation: The available sources are insufficient to answer this question confidently. Please consult a local agricultural extension office or the relevant Saudi authority directly.\nSources: None met the relevance threshold.",
+    "technical_evidence": [],
+    "policy_evidence": [],
+    "llm_called": false
+  }
+]

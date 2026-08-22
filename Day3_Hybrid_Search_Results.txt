@@ -1,27 +1,46 @@
 ======================================================================
-DAY 3 — HYBRID SEARCH RESULTS
-Generated: 2026-08-19T21:27:24.871618
+DAY 3 — HYBRID SEARCH RESULTS (FIXED EXTRACTION)
+Generated: 2026-08-22T15:14:16.245119
 ======================================================================
 
 🔍 QUERY: What irrigation practices are recommended for tomato plants?
 --------------------------------------------------
 🏆 Rank 1
 📄 Source: FAO_Crop_Water_Response_66.pdf
-📑 Page: 210
-⭐ Score: 0.0464
-📋 Text: in the top 40 cm soil layer, where the majority of the active roots are concentrated. Drip irrigation alters root development pattern; however, roots grow preferentially in wet soil, irrespective of the areas wetted by surface or subsurface drip (Oliveira et al., 1996).WATER USE AND PRODUCTIVITYProcessing tomato consumes 400-800 mm of water from emergence/transplanting to harvest, depending on climate, plant type, soil, irrigation and crop management. Tomato plants can tolerate drought to some d...
+📑 Page: 207
+⭐ Score: 0.0313
+📋 Text: The cropped area 
+increased 1.4 millions ha (+40 percent) in the period 1997-2007, but total 
+fruit production, including fresh market tomato, increased by only 20 
+million tonne (15 percent). More than 38 million tonne per year are grown 
+for the processing industry, making tomato the world’s leading vegetable 
+for processing. Fruit production for processing increased even more in 
+proportion, by 11 million tonne (+49 percent), while only 0.5 million ha 
+(+10 percent) were cropped with processi...
 
 🏆 Rank 2
 📄 Source: FAO_Crop_Water_Response_66.pdf
-📑 Page: 207
-⭐ Score: 0.0313
-📋 Text: 1.4 millions ha (+40 percent) in the period 1997-2007, but total fruit production, including fresh market tomato, increased by only 20 million tonne (15 percent). More than 38 million tonne per year are grown for the processing industry, making tomato the world’s leading vegetable for processing. Fruit production for processing increased even more in proportion, by 11 million tonne (+49 percent), while only 0.5 million ha (+10 percent) were cropped with processing tomato (WPTC, 2011). Global tom...
+📑 Page: 209
+⭐ Score: 0.0301
+📋 Text: CROP YIELD RESPONSE TO WATER
+194
+Tomato requires soils with proper water-holding capacity and aeration. Well drained, deep, 
+sandy loam soils are preferred, but heavier soils can also be highly productive under proper 
+management. Tomato is intolerant to soil compaction and waterlogging, thus the upper 15-
+20 cm soil layer needs to be permeable. In clay soils, deep ploughing is sometimes necessary 
+to allows for water drainage and better root penetration. At some locations tomato needs a 
+3-year...
 
 🏆 Rank 3
 📄 Source: FAO_Crop_Water_Response_66.pdf
 📑 Page: 60
 ⭐ Score: 0.0164
-📋 Text: acity.  Management data Management practices are divided into irrigation management and ﬁeld management. Under ﬁeld management practices are choices of soil fertility levels, level of weed infestation, and practices that affect the soil-water balance such as mulching to reduce soil evaporation, soil bunds to store water on the ﬁeld, and the elimination of runoff by conservation practices....
+📋 Text: be speciﬁed if it is not at ﬁeld capacity.  
+Management data 
+Management practices are divided into irrigation management and ﬁeld management. Under 
+ﬁeld management practices are choices of soil fertility levels, level of weed infestation, and 
+practices that affect the soil-water balance such as mulching to reduce soil evaporation, soil 
+bunds to store water on the ﬁeld, and the elimination of runoff by conservation practices....
 
 ======================================================================
 
@@ -30,82 +49,187 @@ Generated: 2026-08-19T21:27:24.871618
 🏆 Rank 1
 📄 Source: Khait_Plant_Sounds_2023.pdf
 📑 Page: 12
-⭐ Score: 0.0627
-📋 Text: before and 1ms afterthe peak of a recorded sound that triggered the system to record. ‘‘Greenhouse noise’’ sounds were obtained when the greenhouseincluded only acoustic equipment without plants or pots, by the two microphones (thus excluding ‘‘Electrical noise’’ registered on asingle microphone).Acoustic-box drought stress experimentEach plant was recorded twice: ﬁrst before drought treatment (‘‘self-control’’), and again after it. In the ﬁrst recording, all the plantswere healthy and their soi...
+⭐ Score: 0.0309
+📋 Text: processed recording includes a segment of 1ms before and 1ms after
+the peak of a recorded sound that triggered the system to record. ‘‘Greenhouse noise’’ sounds were obtained when the greenhouse
+included only acoustic equipment without plants or pots, by the two microphones (thus excluding ‘‘Electrical noise’’ registered on a
+single microphone).
+Acoustic-box drought stress experiment
+Each plant was recorded twice: ﬁrst before drought treatment (‘‘self-control’’), and again after it. In the ﬁrst ...
 
 🏆 Rank 2
-📄 Source: Khait_Plant_Sounds_2023.pdf
-📑 Page: 8
-⭐ Score: 0.0161
-📋 Text: ing:dKEY RESOURCES TABLEdRESOURCE AVAILABILITYBLead contactBData and code availabilitydEXPERIMENTAL MODEL AND SUBJECT DETAILSdMETHOD DETAILSBRecording protocolBData pre-processingBAcoustic-box drought stress experimentBAcoustic-box cut stress experimentBGreenhouse drought experimentBGreenhouse dehydration experimentBGreenhouse whole plant transpiration rateBClassifying sounds recorded in the acoustic boxBConvolution neural networks (CNN)BLeave-one-plant-out cross validation (LOPO-CV)BClassifying...
+📄 Source: FAO_Crop_Water_Response_66.pdf
+📑 Page: 309
+⭐ Score: 0.0164
+📋 Text: as, M. 2008. Crop Water Stress Index Is a Sensitive Water Stress Indicator 
+in Pistachio Trees. Irrigation Science, 26: 395-405....
 
 🏆 Rank 3
 📄 Source: FAO_Crop_Water_Response_66.pdf
-📑 Page: 342
+📑 Page: 154
 ⭐ Score: 0.0161
-📋 Text: International Society Citriculture 1: 74-79.Melgar, J.C., Dunlop, J.M., Albrigo, L.G. & Syverstsen, J.P. 2010. Winter Drought Stress Can Delay Flowering and Avoid Immature Fruit Loss during Late-season Mechanical Harvesting of 'Valencia' Oranges. Horticultural Science, 45(2) 271-276.Meyer, W.S. & Green, G.C. 1981. Comparison of stomatal action of orange, soybean, and wheat under ﬁeld conditions. Australian Journal of Plant Physiology 8:65-76Moreshet, S., Cohen, Y. & Fuchs, M. 1983. Response of m...
+📋 Text: BARLEY
+139
+the onset of stem elongation to the end of anthesis, when stress may limit the number of fertile 
+ﬂorets produced from the ﬂorets initiated, and the proportion of the fertile ﬂorets pollinated 
+and set. During the grain ﬁlling period, yield is also reduced by water stress strong enough 
+to inhibit assimilation, leading to reduced weight per grain. In terminal drought situations 
+common to the Mediterranean climate, yield loss is most likely the combined result of fewer 
+grains resulti...
 
 ======================================================================
 
 🔍 QUERY: How can water resources be managed efficiently in agriculture?
 --------------------------------------------------
 🏆 Rank 1
-📄 Source: FAO_Crop_Water_Response_66.pdf
-📑 Page: 267
-⭐ Score: 0.0306
-📋 Text: ed and managed microirrigation systems. Efﬁcient use of water in orchard irrigationThe key to efﬁcient use of water for irrigation is to quantify the disposition of the water applied to a ﬁeld. A schematic water balance for an orchard under microirrigation is shown in Figure 6, in which the various losses that occur during and after irrigation are shown. Efﬁcient irrigation is achieved when most of the water applied is consumed as Tr and the losses in E, runoff and percolation are kept to a mini...
-
-🏆 Rank 2
-📄 Source: FAO_Crop_Water_Response_66.pdf
-📑 Page: 295
-⭐ Score: 0.0299
-📋 Text: developmental events is relatively rare for deciduous species since Tr is very low early in the season because of lack of leaf area and the generally low evaporative demand in temperate climates. In subtropical climates and for evergreen species, the likelihood of stress at ﬂowering and fruit set is greater and should be managed accordingly.Effects on vegetative growth and CO2 assimilationGrowth is among the ﬁrst processes that are affected by water deﬁcits. When a water deﬁcit...
-
-🏆 Rank 3
 📄 Source: Khait_Plant_Sounds_2023.pdf
 📑 Page: 11
 ⭐ Score: 0.0164
-📋 Text: STAR+METHODSKEY RESOURCES TABLE
-RESOURCE AVAILABILITYLead contactFurther information and requests for resources should be directed to and will be fulﬁlled by the lead contact, Lilach Hadany (lilach.hadany@gmail.com).Data and code availabilitydCode for the CNN binary classiﬁer training function can be found on Zenodo:https://doi.org/10.5281/zenodo.7612742.dData including recordings of plants under different conditions can be found on Dryad:https://doi.org/10.5061/dryad.jwstqjqf7.dAdditional infor...
+📋 Text: STAR+METHODS
+KEY RESOURCES TABLE
+RESOURCE AVAILABILITY
+Lead contact
+Further information and requests for resources should be directed to and will be fulﬁlled by the lead contact, Lilach Hadany (lilach.
+hadany@gmail.com).
+Data and code availability
+d Code for the CNN binary classiﬁer training function can be found on Zenodo: https://doi.org/10.5281/zenodo.7612742.
+d Data including recordings of plants under different conditions can be found on Dryad: https://doi.org/10.5061/dryad.jwstqjqf7.
+d Add...
+
+🏆 Rank 2
+📄 Source: SaudiWaterResourcesCode.pdf
+📑 Page: 43
+⭐ Score: 0.0164
+📋 Text: 43 
+ 
+ب- 
+ 
+الأثر الإيجابي الإقليمي لتركيب العدادات على استدامة مصادر المياه. 
+ج- 
+ 
+إجراءات الوزارة لاستدامة القطاعات 
+الاقتصادية بما يتعلق بمصادر المياه.  
+د- 
+ 
+الحوكمة التشاركية لاستخدام المياه. 
+ 
+ه- 
+ 
+مخاطر عدم حوكمة وتقنين سحب المياه. 
+و- 
+ 
+المنافع الاقتصادية للمزارع من عملية تقنين وترشيد استخدام المياه. 
+ز- 
+ 
+قيمة المياه. 
+ح- 
+ 
+جميع ما تقرره الوزارة. 
+ 
+6.3.7
+ 
+تقوم 
+الوزارة - 
+بالتنسيق مع 
+المؤسسة - 
+بتقدير 
+الاستهلاك الزراعي 
+ومقارنته 
+بالمقننات المائية باستخدام الوسائل المتقدمة مت...
+
+🏆 Rank 3
+📄 Source: FAO_Crop_Water_Response_66.pdf
+📑 Page: 314
+⭐ Score: 0.0161
+📋 Text: al systems, particularly during the ﬁrst 10 years of 
+production. Trees are trained to a single trunk for mechanical harvesting 
+and the soil is often managed by temporary or permanent grass cover 
+to reduce erosion and ease trafﬁc in wet periods. In areas of annual 
+rainfall higher than 600 mm, production can be maintained under rainfed 
+conditions in soils with good water-holding capacity. However, irrigation 
+plays an important role in the drier areas, and/or for soils with limited 
+water sto...
 
 ======================================================================
 
 🔍 QUERY: What agricultural practices support sustainable water use?
 --------------------------------------------------
 🏆 Rank 1
-📄 Source: FAO_Irrigation_Manual.pdf
-📑 Page: 13
-⭐ Score: 0.0323
-📋 Text: rea, the
-water availability and the soils; current agricultural
-practices should be identified
-1Chapter 1
-Introduction...
+📄 Source: SaudiWaterResourcesCode.pdf
+📑 Page: 31
+⭐ Score: 0.0320
+📋 Text: يجيات الوطنية. 
+ب- 
+ 
+إعداد وتنفيذ خطط تنمية لمدة خمس سنوات على الأقل 
+لاستدامة مصادر المياه في 
+الدولة. 
+ 
+ج- 
+ 
+تحقيق الاستخدام الأمثل لمصادر المياه المتاحة من خلال تطوير خدمات مصادر المياه بما يضمن الأمن المائي والغذائي والتنمية الاقتصادية القائمة على العدالة الاجتماعية.  
+د- 
+ 
+تطوير مصادر المياه بهدف توفير احتياجات القطاعات الأكثر احتياج
+ا، وتحقيق الإنصاف في 
+توزيع المياه على كافة مناطق الدولة وللقطاعات المختلفة.  
+ه- 
+ 
+العمل على إعادة استخدام المياه المعالجة للأغراض الزراعية والصناعية وال...
 
 🏆 Rank 2
-📄 Source: ‎الاستراتيجية الوطنية للمياه ٢٠٣٠.pdf
-📑 Page: 46
-⭐ Score: 0.0301
-📋 Text: ذﻟــﻚ  ﰲ مبــﺎ  اﻟﺒﻴﺌﺔ وزارة
-واﻟﺰراﻋﺔ واﳌﻴﺎه اﻟﺒﻴﺌﺔ وزارة
-واﻟﺰراﻋﺔ واﳌﻴﺎهواﻟﺰراﻋﺔ واﳌﻴﺎه اﻟﺒﻴﺌﺔ وزارة واﻟﺰراﻋﺔ واﳌﻴﺎه اﻟﺒﻴﺌﺔ وزارة
-.اﻟﺼﻨﺎﻋﻴﺔ اﳌﻴﺎه إﻣﺪاد ﰲ ﻌﺎﻟﺠﺔ ُاﳌ فﴫاﻟ ﻣﻴﺎه ﺟﻮدة ريﻣﻌﺎﻳ اﻟﺘﺠﺎرة وزارة
-رامواﻻﺳﺘﺜ اﻟﺘﺠﺎرة وزارة
-رامواﻻﺳﺘﺜرامواﻻﺳﺘﺜ اﻟﺘﺠﺎرة وزارة رامواﻻﺳﺘﺜ اﻟﺘﺠﺎرة وزارة
- ﻣﻮارد ﻳﺔ امﺣ
- ﻣﻦ اﳌﻴﺎه
-اﻟﺘﻠﻮث وﻣﺼــﺎدر اﻟﻨﻘﻄــﺔ ﻣﺼــﺎدر ﻣــﻦ ﻛﻞ ﻣــﻦ واﻟﺘﺨﻠــﺺ اﻟﻮﻗﺎﻳــﺔ
-.اﳌﺎﺋﻴــﺔ ﻟﻠﻤــﻮارد اﳌﻨﺘــﴩ اﻟﺘﻠــﻮث اﻟﺒﻴﺌﺔ وزارة
-واﻟﺰراﻋﺔ واﳌﻴﺎه اﻟﺒﻴﺌﺔ وزارة
-واﻟﺰراﻋﺔ واﳌﻴﺎه ﻳﺔاموﺣ ﻟﻸرﺻﺎد اﻟﻌﺎﻣﺔ اﻟﻬﻴﺌﺔ
-اﻟﺒﻴﺌ...
-
-🏆 Rank 3
 📄 Source: FAO_Crop_Water_Response_66.pdf
 📑 Page: 5
 ⭐ Score: 0.0164
-📋 Text: es of the Consultative Group on International Agricultural Research (CGIAR), “Crop yield response to water” is published at a time of high demand for assistance by member countries in order to implement effective water management strategies and practices that are environmentally safe and climate-resilient, and enhance sustainable water productivity and yield of their farming systems, therefore alleviating the risks of food insecurity.Foreword
-José Graziano da SilvaDirector-GeneralFood and Agricu...
+📋 Text: ld, including a few Institutes of the Consultative Group on International Agricultural 
+Research (CGIAR), “Crop yield response to water” is published at a time of high demand for 
+assistance by member countries in order to implement effective water management strategies 
+and practices that are environmentally safe and climate-resilient, and enhance sustainable 
+water productivity and yield of their farming systems, therefore alleviating the risks of food 
+insecurity.
+Foreword
+José Graziano da Si...
+
+🏆 Rank 3
+📄 Source: SaudiWaterResourcesCode.pdf
+📑 Page: 43
+⭐ Score: 0.0164
+📋 Text: 43 
+ 
+ب- 
+ 
+الأثر الإيجابي الإقليمي لتركيب العدادات على استدامة مصادر المياه. 
+ج- 
+ 
+إجراءات الوزارة لاستدامة القطاعات 
+الاقتصادية بما يتعلق بمصادر المياه.  
+د- 
+ 
+الحوكمة التشاركية لاستخدام المياه. 
+ 
+ه- 
+ 
+مخاطر عدم حوكمة وتقنين سحب المياه. 
+و- 
+ 
+المنافع الاقتصادية للمزارع من عملية تقنين وترشيد استخدام المياه. 
+ز- 
+ 
+قيمة المياه. 
+ح- 
+ 
+جميع ما تقرره الوزارة. 
+ 
+6.3.7
+ 
+تقوم 
+الوزارة - 
+بالتنسيق مع 
+المؤسسة - 
+بتقدير 
+الاستهلاك الزراعي 
+ومقارنته 
+بالمقننات المائية باستخدام الوسائل المتقدمة مت...
 
 ======================================================================
 
@@ -114,96 +238,168 @@ José Graziano da SilvaDirector-GeneralFood and Agricu...
 🏆 Rank 1
 📄 Source: ‎الاستراتيجية الوطنية للمياه ٢٠٣٠.pdf
 📑 Page: 111
-⭐ Score: 0.0164
-📋 Text: اقيات االمتياز
-تحديد المهام ووضع استراتيجية  يرلا ةسسؤمتنمية القدرات والشراكات( مؤسسة الري)تاسين ممارسات الري
-التقييم الفني ألصول اإلنتاج
-التقييم الفني النقلإعادة هيكلة قدرات المياه المتكاملة 
-تعزير قدرات رشكة املاء والكهرباء...
+⭐ Score: 0.0325
+📋 Text: ي ن
+سقيا البادية مساهمة
+القطاع الثالث
+األنظمة والمتطلبات البيئية
+ إدارة المخاطر
+توسيع الربط
+ الخزن سعة توسيع
+الباث والتطوير
+بناء وتطوير القدرات الوطنية
+توطين قطاع المياه
+توسيع شبكة توزيع المياه
+توسيع شبكة الصرف الصاي
+تخفيض الفاقد
+العدادات الذكية
+والفوترة والتاصيل
+تاسين خدمة العمالء
+أتمتة التوزيع
+ مكافاة التلو
+وتاسين نوعية المياه
+تطوير القدرات التنظيمية
+إصالح التعريفات
+اللوائح التنظيمية والتراخيص(الخدمات)
+االتفاقات التجارية
+إعادة هيكلة
+قطاع التالية
+تخصيص ماطات الصرف
+ تخصيص
+إنتاج المياه
+تعزيز قدرا...
 
 🏆 Rank 2
-📄 Source: MEWA_Tomato_Irrigation_Guide.pdf
-📑 Page: 22
-⭐ Score: 0.0164
-📋 Text: . اﻹﺧﺼﺎب٥١ﻳﻌﺘﺒﺮ ﻧﺒﺎت اﻟﻄﻤﺎﻃﻢ ﻣﻦ اﻟﻨﺒﺎﺗﺎت ذاﺗﻴﺔ اﻟﺘﻠﻘﻴﺢ ﺣﻴﺚ ﻳﺘﻢ اﻹﺧﺼﺎب ﺑﺸﻜﻞ ﻃﺒﻴﻌﻲ ﻋﻨﺪﻣﺎ ﺗﻜﻮن اﻟﻈﺮوف ﻋﺎدﻳﺔ وﻳﺴﺎﻋﺪ ﺗﺤﺮﻳﻚ اﻟﻨﺒﺎت ﺑﻮاﺳﻄﺔ اﻟﺘﻴﺎرات اﻟﻬﻮاﺋﻴﺔ ووﺟﻮد اﻟﺤﺸﺮات ﻓﻲ ﺗﺤﺴﻴﻦ اﻹﻟﻘﺎح وﺑﺎﻟﺘﺎﻟﻲ ﻣﻦ ﻋﻘﺪ اﻟﺜﻤﺎر،  إن اﻟﺮﻃﻮﺑﺔ اﻟﺠﻮﻳﺔ وﺣﺮارة اﻟﺠﻮ اﻟﻐﻴﺮ ﻣﻨﺎﺳﺒﺘﻴﻦ وﻏﻴﺎب اﻟﺤﺸﺮات ﻳﻤﻜﻦ أن ﻳﺆﺛﺮ ﺑﺸﻜﻞ ﺳﻠﺒﻲ ﻋﻠﻰ إﺧﺼﺎب اﻷزﻫﺎر. وﻋﻨﺪﻣﺎ ﻻ ﺗﺨﺼﺐ اﻷزﻫﺎر ﺑﺸﻜﻞ ﻛﺎف ﺗﺘﺸﻜﻞ ﺛﻤﺎر ﺻﻐﻴﺮة )ﻃﻤﺎﻃﻢ ﻛﺮزﻳﺔ( ﻻ ﺗﺤﻮي ﻋﻠﻰ ﺑﺬور أو ﻋﻠﻰ ﻛﻤﻴﺔ ﻗﻠﻴﻠﺔ ﺟﺪا ﻣﻦ اﻟﺒﺬور وﻫﻲ ذات ﻧﻮﻋﻴﺔ ﻏﻴﺮ ﺟﻴﺪة.وﻳﻨﺘﺞ ﻋﻦ ذﻟﻚ ﺿﻌﻒ ﺑﺎﻹﻧﺘﺎﺟﻴﺔ وﻧﻤﻮ ﺧﻀﺮي ﻛﺒﻴﺮ إﺿﺎﻓﺔ اﻟﻰ ﻧﻤﻮ ﺣﻮاﻣﻞ ا...
+📄 Source: FAO_Crop_Water_Response_66.pdf
+📑 Page: 213
+⭐ Score: 0.0310
+📋 Text: and nitrogen uptake in fertigated 
+processing tomato. IX ISHS Symposium on Processing Tomato, Melbourne Nov 15-18 2004. Acta Horticulturae, 
+724:67:74.
+Battilani, A., Bonetti, G. & Di Lucca, G. 2002. Tomato root growth under different soil and climate conditions. Acta 
+Horticulturae, 613:47-56.
+Battilani, A., Plauborg, F.L., Andersen, M.N., Jensen, C.R., Sandei, L. & Solimando, D. 2008. Water saving irrigation 
+strategies for processing tomato. XI ISHS Symposium on Processing Tomato, Toronto 200...
 
 🏆 Rank 3
-📄 Source: FAO_Crop_Water_Response_66.pdf
-📑 Page: 210
-⭐ Score: 0.0161
-📋 Text: ink, 1992); however, there is not much different between the three determinacy types. Tomato has a strong tendency to drop early ﬂower buds, ﬂowers and young fruit under certain conditions, including low solar radiation level and temperature and high humidity. Nitrogen and water status of the plant are equally inﬂuential. High nitrogen and/or high water status stimulates vegetative growth, this apparently competes with the developing ﬂowers and fruit for assimilates, causing abscission of ﬂowers...
+📄 Source: SaudiWaterResourcesCode.pdf
+📑 Page: 42
+⭐ Score: 0.0290
+📋 Text: دية للمواصفات 
+والمقاييس والجودة، 
+بما في ذلك: 
+1. 
+ 
+أحكام اللائحة الفنية لأدوات ترشيد استهلاك المياه المعتمدة من الهيئة السعودية 
+للمواصفات والمقاييس والجودة. 
+2. 
+ 
+مضمون 
+أدلة الترشيد الصادرة من المركز الوطني لكفاءة وترشيد المياه.
+3. 
+يعتمد
+في تطبق هذا الكود ما يصدر من 
+المؤسسة
+من أكواد 
+ وت ظيما
+متعلقة 
+بممارسات الري في النشاط الزراعي 
+والمي
+تصدر بالتعاون مع المنظمات الدولية مثل 
+منظمة الفاو . 
+6.3.4
+ 
+تنظم 
+الوزارة - 
+بالتنسيق مع 
+اللجنة المحلية لمستخدمي مصادر المياه - 
+ورش عمل 
+تعرف بالآت...
 
 ======================================================================
 
 🔍 QUERY: ما هي علامات الإجهاد المائي في النباتات؟
 --------------------------------------------------
 🏆 Rank 1
-📄 Source: ‎الاستراتيجية الوطنية للمياه ٢٠٣٠.pdf
-📑 Page: 35
-⭐ Score: 0.0320
-📋 Text: ﻛﺒــرية ﺑﻨﺴــﺒﺔ ﺗﻌﺘﻤــﺪ اﻟﺴــﻌﻮدﻳﺔ اﻟﻌﺮﺑﻴــﺔ اﳌﻤﻠﻜــﺔ أن إﱃ وﺑﺎﻟﻨﻈــﺮ
- اﻟﻄﺎﻗــﺔ،  واﺣﺘﻴﺎﺟــﺎت  اﳌﺎﻟﻴــﺔ  اﻻﺣﺘﻴﺎﺟــﺎت  ﰲ ﻣﺮﺗﻔﻌــﺔ  ﺑﺼــﻮرة  ﺗﺆﺛــﺮ  اﻟﺤــﴬي  اﻟﻘﻄــﺎع  ﻣــﻦ  اﻟﻄﻠــﺐ  ﰲ اﻟﺰﻳــﺎدة 
-.واﻟﺰراﻋﺔ واﳌﻴﺎه اﻟﺒﻴﺌﺔ وزارة ﻟﻺﺣﺼﺎء، اﻟﻌﺎﻣﺔ ﻟﻠﻬﻴﺌﺔ وين ﱰاﻹﻟﻜ اﳌﻮﻗﻊ: اﳌﺼﺪر١٣٪٥٫٦٣٪
-٧٪
-٧٪
-١٣٪٦٪ ٦٪
-٧٪٦٩٫
-٢١٠٢٣٢٪
-٣٣٪٢١٪
-٣١٠٢٣٪
-٦٪٦٪
-٢٢٪٧٥٫
-٠٣٪٥٢٪٩٢٪١١٪٣٪
-٤٢٪
-٥١٠٢+٦٪
-١١٠٢٣٢٪٣٫٨
-٢٣٪
-٤١٠٢٠٣٪١٢٪٤٪٤٪
-٦٪ ٦٪٤٪٩٫٧
-الرياض(+٧٪)القصيم(-١٪)عسير(-٢١٪)حائل(+١٢٪)
-جازان(+٨١٪)الحدود الشمالية (-١٪)
-الجوف(-٢٪)
-مكةالمكرمة(٠٪...
+📄 Source: SaudiWaterResourcesCode.pdf
+📑 Page: 16
+⭐ Score: 0.0325
+📋 Text: مية المياه التي تستخدم سنويًّ
+ا من كافة 
+المصادر المائية معادلة 
+بكميات المياه الداخلة للنظام المائي في مساحات معينة. 
+2.1.109
+ 
+السحب الآ
+من: 
+هو كمية المياه الوسطية التي يمكن استخراجها من مياه سطحية أو 
+جوفية، 
+على امتداد فترة زمنية طويلة، 
+دون إ
+لحاق ضرر بالمصادر المائية كالاستنزاف 
+أو التلوث. 
+2.1.110
+ 
+الهاطل 
+المطري: 
+هي 
+كمية المطر الهاطل ويعبر عنه بوحدة الطول ووحدة الزمن. 
+2.1.111
+ 
+وحدة 
+التفتيش: 
+وحدة ميدانية تشرف على تطبيق وتنفيذ اشتراطات ومواد الكود 
+وإدارة المصادر المائية. 
+2.1.112
+...
 
 🏆 Rank 2
 📄 Source: SaudiWaterResourcesCode.pdf
-📑 Page: 42
-⭐ Score: 0.0164
-📋 Text: 42 
+📑 Page: 46
+⭐ Score: 0.0296
+📋 Text: 46 
+ 
+المخولة لها في الكود واللوائح والأنظمة المختلفة بهدف حماية الأموال 
+والاستثمارات المخصصة بناء على الوفرة المائية.
+6.4.13
+ 
+تضع 
+الوزارة، ب
+التنسيق مع الجهات المعنية
+، آليات 
+فعالة ل
+لاستجابة السريعة 
+لحالات المخاطر والطوارئ 
+المتعلقة بمصادر 
+المياه. 
  
  
+7. 
+حماية كميات ونوعية مصادر المياه والحفاظ 
+عليها
  
-  بالم ستتتتي        
  
+7 ,1
+اشتراطات عامة 
+7.1.1
  
-و  
-في  
+يتم تحصيص كميات المياه من المصادر بما يحقق التنمية الاجتماعية والاقتصادية والبيئية، 
+مع أخذ 
+استدامة 
+المصدر 
+في 
+الاعتبار، 
+وفق خطة علمية عادلة. 
+7.1.2
   
- 
-والمؤسستتتتتتتتة        ، 
- 
-.  
- 
-.  
-. 
-وت ظيما  
-والمي
- 
- 
--  
--  
-.   
- 
- 
- 
- 
--...
+...
 
 🏆 Rank 3
 📄 Source: FAO_Crop_Water_Response_66.pdf
-📑 Page: 173
+📑 Page: 309
 ⭐ Score: 0.0164
-📋 Text: CROP YIELD RESPONSE TO WATER158RESPONSE TO STRESSESCotton stands out among crops as one with extraordinary vegetative/reproductive growth ratio dependence on plant water status. High water status promotes vegetative growth and suppresses reproductive growth. Adequate water is essential for vegetation growth prior to and during ﬂower bud formation. Conversely, overly abundant water supply during ﬂowering, boll growth and ﬁbre development will result in rapid and continued vegetative growth and th...
+📋 Text: as, M. 2008. Crop Water Stress Index Is a Sensitive Water Stress Indicator 
+in Pistachio Trees. Irrigation Science, 26: 395-405....
 
 ======================================================================
 
