@@ -9,7 +9,7 @@ AgriNova is an AI-driven agricultural proof-of-concept that explores plant acous
 ---
 
 ## 🔗 Links
-- 🎬 **Demo:**
+- 🎬 **Demo:** https://youtu.be/spjAZUZorMM
 - 💻 **GitHub:** https://github.com/AbrarAlmutawa/AgriNova
 - 📚 **Knowledge Base:** [Google Doc](https://docs.google.com/document/d/1-AJlpwE7bubil0NSH2Ga8ry5wE2kgcC7/edit?usp=drive_link&ouid=116708446478444135879&rtpof=true&sd=true)
 
