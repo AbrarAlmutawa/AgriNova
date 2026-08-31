@@ -1,0 +1,35 @@
+# AgriNova — project dependencies
+# Generated as a curated starting point. For exact reproducibility, prefer
+# running `pip freeze > requirements.txt` inside the activated tf_env venv.
+
+# --- API server ---
+fastapi
+uvicorn[standard]
+python-multipart
+
+# --- Streamlit frontend ---
+streamlit
+pandas
+requests
+
+# --- Audio / spectrogram ---
+librosa
+matplotlib
+numpy
+
+# --- CNN model ---
+tensorflow
+
+# --- PDF extraction (Day 3) ---
+PyMuPDF
+
+# --- Knowledge base / hybrid search (Day 3-4) ---
+chromadb
+sentence-transformers
+rank-bm25
+
+# --- LLM (recommendation generation) ---
+google-generativeai
+
+# --- Standard library only, no install needed: ---
+# sqlite3, uuid, json, io, os (plant_store.py, day5_api.py)

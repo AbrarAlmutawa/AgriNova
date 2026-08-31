@@ -1,6 +1,6 @@
 ======================================================================
 DAY 3 — HYBRID SEARCH RESULTS (FIXED EXTRACTION)
-Generated: 2026-08-22T15:14:16.245119
+Generated: 2026-08-31T12:04:06.927660
 ======================================================================
 
 🔍 QUERY: What irrigation practices are recommended for tomato plants?
@@ -8,7 +8,7 @@ Generated: 2026-08-22T15:14:16.245119
 🏆 Rank 1
 📄 Source: FAO_Crop_Water_Response_66.pdf
 📑 Page: 207
-⭐ Score: 0.0313
+⭐ Score: 0.0310
 📋 Text: The cropped area 
 increased 1.4 millions ha (+40 percent) in the period 1997-2007, but total 
 fruit production, including fresh market tomato, increased by only 20 

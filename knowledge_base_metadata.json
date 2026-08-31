@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-22T15:14:16.244830",
+    "timestamp": "2026-08-31T12:04:06.926579",
     "pdf_files": [
         "AIAdoptionFramework.pdf",
         "FAO_Crop_Water_Response_66.pdf",
@@ -13,8 +13,8 @@
         "‎المعايير النباتية للممارسات الزراعية الجيدة بالمملكة العربية السعودية (سعودي قاب).pdf"
     ],
     "total_pdfs": 10,
-    "total_pages": 975,
-    "total_chunks": 3794,
+    "total_pages": 970,
+    "total_chunks": 3770,
     "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
     "vector_db": "ChromaDB",
     "keyword_search": "BM25",
